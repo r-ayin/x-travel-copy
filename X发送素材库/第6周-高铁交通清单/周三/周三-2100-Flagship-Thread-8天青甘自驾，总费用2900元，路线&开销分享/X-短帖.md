@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-01（周三）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Qinghai-Gansu, 8 days, ¥2,900 each: Xining → Qinghai Lake → Chaka → Da Qaidam → Dunhuang → Zhangye → Qilian → Lanzhou.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-09（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Hosting a friend in Hangzhou after work, 6pm to 10pm: eat first, then one of five walks.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-04（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 18 days, 9 provinces, 2 municipalities, ¥3,000: Shanghai → Hangzhou → Huangshan → Jingdezhen → Nanchang → Fuzhou → Xiamen → Shantou → Guangzhou.

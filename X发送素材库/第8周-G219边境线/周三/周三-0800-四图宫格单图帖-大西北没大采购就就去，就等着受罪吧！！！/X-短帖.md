@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-15（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Northwest shopping list, learned the hard way: sunscreen in bulk, wet wipes, a power bank, polarised sunglasses with a strap, a 3-in-1 shell, a thermos, cash in small notes.

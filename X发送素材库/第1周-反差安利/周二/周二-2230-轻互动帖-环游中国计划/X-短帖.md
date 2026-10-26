@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-26（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Quitting mid-March, leaving mid-April, starting from Taizhou. Tight budget, one woman, no fixed plan.

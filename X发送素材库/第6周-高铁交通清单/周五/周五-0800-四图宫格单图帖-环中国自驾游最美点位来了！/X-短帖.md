@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-03（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 27,000 km, the golden outer ring: G331 north, G219 west, G228 coast.

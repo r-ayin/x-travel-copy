@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-19（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Hainan loop, the honest version: east coast for beaches and food, west coast for silence and sunsets, middle for rainforest and hot springs.

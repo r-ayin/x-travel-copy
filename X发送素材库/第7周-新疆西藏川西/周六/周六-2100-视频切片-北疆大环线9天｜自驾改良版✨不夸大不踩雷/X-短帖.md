@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-11（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Northern Xinjiang, 9 days, tank 300, no filter: Urumqi → Burqin → Kanas → Baihaba → Kuitun → Sayram → Nalati → Urumqi.

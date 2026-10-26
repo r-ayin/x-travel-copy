@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-16（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Full border ring, two people, one car: G228 + G219 + G331. People keep asking the number.

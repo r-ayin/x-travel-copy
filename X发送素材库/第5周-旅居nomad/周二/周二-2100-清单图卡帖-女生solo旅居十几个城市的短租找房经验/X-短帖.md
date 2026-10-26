@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-23（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Solo short-let in twelve cities: book 3-5 nights on arrival, pick two districts, walk both, then commit to a month.

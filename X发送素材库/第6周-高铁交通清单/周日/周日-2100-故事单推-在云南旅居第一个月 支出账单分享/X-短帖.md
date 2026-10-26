@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-05（周日）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 First month living in Chuxiong, Yunnan: ¥6,086 for two people. Rent ¥1,000, eating out ¥1,509, groceries ¥927, swimming lessons ¥1,180, scooter ¥261.

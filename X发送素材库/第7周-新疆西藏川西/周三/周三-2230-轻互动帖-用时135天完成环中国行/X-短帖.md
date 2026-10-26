@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-08（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 135 days, 35,000 km, one dog, one small car, Beijing to Beijing. G331, G219, G228.

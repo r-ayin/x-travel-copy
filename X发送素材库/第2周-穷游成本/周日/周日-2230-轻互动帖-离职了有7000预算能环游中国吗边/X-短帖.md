@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-07（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Quit my job. ¥7,000. Can I go around China and earn on the way?

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-29（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Train food that won't betray you at hour 12: no soup, no strong smells, nothing that needs peeling. Water in a thermos, plain bread, fruit you can eat with one hand, nuts, electrolytes.

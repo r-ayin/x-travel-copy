@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-20（周六）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Qinghai-Gansu loop, real numbers for 2 people: car ¥2,434, fuel ¥1,615, tolls ¥887, flights ¥3,828, hotels ¥1,633, food ¥1,819, tickets ¥2,758. Total ¥14,547.

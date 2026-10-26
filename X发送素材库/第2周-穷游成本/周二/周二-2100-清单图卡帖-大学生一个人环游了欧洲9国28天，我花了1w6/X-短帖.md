@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-02（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 28 days, 9 countries, ¥15,660: Budapest → Vienna → Prague → Berlin → Rome → Barcelona → Madrid → Lisbon → Athens.

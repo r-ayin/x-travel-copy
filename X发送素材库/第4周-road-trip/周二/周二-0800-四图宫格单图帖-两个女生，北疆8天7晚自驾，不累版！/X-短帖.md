@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-16（周二）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Northern Xinjiang, 8 days, two women, no 6am starts: Yining → Sayram Lake → Kuytun → Urho → Burqin → Baihaba → Kanas → Altay.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-29（周一）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Six days in Tibet, avoiding the crowds: Lhasa → Yamdrok → Shigatse → Tingri's dunes → Saga → Nyima → Bangoin.

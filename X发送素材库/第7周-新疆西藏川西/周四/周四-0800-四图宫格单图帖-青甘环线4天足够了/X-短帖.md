@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-09（周四）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Four days for Qinghai-Gansu, from Zhejiang: fly Lanzhou, train Xining, day tour to Qinghai Lake, train Zhangye, Danxia, train Dunhuang, Mogao, fly home.

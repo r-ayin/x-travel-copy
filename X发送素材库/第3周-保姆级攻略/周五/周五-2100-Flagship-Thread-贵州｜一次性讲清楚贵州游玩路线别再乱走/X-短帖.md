@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-12（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Guizhou in one route, no zig-zagging: Guiyang → Anshun → Libo → Kaili → Zhenyuan → Tongren.

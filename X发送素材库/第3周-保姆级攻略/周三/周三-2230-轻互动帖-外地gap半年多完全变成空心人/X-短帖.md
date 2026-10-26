@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-10（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Six months of gap travel and I stopped wanting things. Not calm — hollow. No ambition, no appetite, no plans.

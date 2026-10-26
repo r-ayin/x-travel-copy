@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-03（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Real question: ¥100,000, one month, around Europe, not backpacking and not five-star.

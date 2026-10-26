@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-05（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 I stayed in hostels for years and called it freedom. Then I admitted it was cheaper, and I had no stories of my own to trade in the common room.

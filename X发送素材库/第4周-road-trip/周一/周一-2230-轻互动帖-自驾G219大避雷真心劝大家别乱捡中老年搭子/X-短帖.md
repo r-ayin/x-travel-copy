@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-15（周一）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Picked up a 50-year-old road-trip partner for G219. Six days later I'd driven 5,000 km and 12 hours a day, mostly to get her to an airport.

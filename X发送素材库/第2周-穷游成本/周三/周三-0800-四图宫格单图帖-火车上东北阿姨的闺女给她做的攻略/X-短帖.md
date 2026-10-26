@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-03（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 On a night train I watched an auntie read a guide her daughter made: huge font, highlighter on the important bits, a tracking app on her phone, the hotel booked remotely.

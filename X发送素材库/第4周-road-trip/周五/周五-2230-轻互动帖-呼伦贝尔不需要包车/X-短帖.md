@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-19（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Hulunbuir does not need a hired driver. The airport rents cars, roads are paved, signal is fine except one valley.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-03（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Hainan east coast, twice, never the same road back: Haikou → Mulan Bay → windmill coast → Wenchang → Qionghai → Wanning → Lingshui → Sanya.

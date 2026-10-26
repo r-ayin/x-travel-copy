@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-31（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Tibet by car, mapped from satellite images and other people's photos: Lhasa → Yamdrok → Pumoyong Co → Kangmar → Dinggye → Everest's east face → Gyirong → Zhongba → Pulan.

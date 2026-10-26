@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-20（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 One month around China and the honest review: it's not transformative, it's tiring and occasionally lonely.

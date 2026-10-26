@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-10（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Nine stops on the Qinghai-Gansu loop: Qinghai Lake, Chaka, Chaidamu's salt lake, Da Qaidam's emerald pools, Black Lone Mountain, Mogao, Mingsha dunes, Zhangye Danxia, Qilian grassland.

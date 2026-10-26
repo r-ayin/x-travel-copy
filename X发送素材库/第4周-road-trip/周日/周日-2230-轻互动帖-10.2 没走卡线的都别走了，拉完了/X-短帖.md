@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-21（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 October 2nd on the border road: the trees are bare, the grass is brown, and the wind takes the rest.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-05（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Maldives for ¥800: a ¥48 tent, a ¥20 mat, a ¥120 snorkel set, and a local island instead of a resort.

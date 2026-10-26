@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-17（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Seven days in Xinjiang, 2°C to 25°C: four jeans, three shirts, one shell, one down liner, five tees, seven socks, one pair of boots and one pair of trainers.

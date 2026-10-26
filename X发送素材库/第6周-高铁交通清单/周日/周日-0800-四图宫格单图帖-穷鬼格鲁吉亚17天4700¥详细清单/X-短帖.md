@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-05（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Georgia, 17 days, ¥4,672: ¥1,063 beds (five nights camping), ¥761 transport, ¥2,154 food, ¥694 gear.

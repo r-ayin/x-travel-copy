@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-02（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Looking for a month in Dali: bright room, big window, 24h hot water, washing machine, kitchen, water and wifi included.

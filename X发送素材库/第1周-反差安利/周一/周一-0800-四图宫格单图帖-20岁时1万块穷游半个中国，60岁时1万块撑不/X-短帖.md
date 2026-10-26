@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-25（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 At 20, ¥10,000 bought me half of China: night trains, a sunrise I climbed for, a wrong turn into a wheat field.

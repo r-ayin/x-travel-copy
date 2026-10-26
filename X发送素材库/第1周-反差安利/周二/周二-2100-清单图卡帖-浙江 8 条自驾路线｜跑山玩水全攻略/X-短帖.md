@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-26（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 8 Zhejiang drives worth a weekend: Anji bamboo sea, Huzhou river line, Lin'an canyon (free), Hangzhou loop (kid-safe), Ningbo cloud road, Ninghai coast, Xianju waterfalls, Suichang sky road.

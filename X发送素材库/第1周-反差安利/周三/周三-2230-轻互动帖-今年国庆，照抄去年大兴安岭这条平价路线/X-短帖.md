@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-27（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Greater Khingan, 6 days, under ¥4,000 each: fly to Hohhot, overnight, fly to Hailar, rent a car, drive north.

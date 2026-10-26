@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-08（周一）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 13 minutes around Hainan, the whole road book in one video: east coast first, west coast home.

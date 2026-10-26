@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-18（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 13 routes for a national holiday, ranked by how hard they are: Guoluo loop, southwest Yunnan, Shannan, Gannan, Hulunbuir, Ili, G315, Yunnan-Tibet, Hainan, G109, southern Anhui, Lixiao road, Weihai coast.

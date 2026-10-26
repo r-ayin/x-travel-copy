@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-13（周一）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 The whole ring, three roads: G331 north (9,300 km), G219 west (10,065 km), G228 coast (7,800 km). Start and finish at Dongxing.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-27（周六）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Eight months of living out of a suitcase. The freedom is real. So is the exhaustion of always being the new person.

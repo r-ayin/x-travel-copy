@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-07（周二）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Kunming, ¥650 a month, and this is the window. Hill, lake, nothing else.

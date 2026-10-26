@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-25（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Idea: one city a month, remote work, move when it gets boring. New food, new streets, new people.

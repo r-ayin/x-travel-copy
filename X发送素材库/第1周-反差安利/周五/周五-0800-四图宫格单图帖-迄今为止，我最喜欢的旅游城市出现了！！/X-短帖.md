@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-29（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Yantai: 1920 Hongkou for apples and old streets, a lone whale at sunrise, a tower of windows over the sea, and Suochengli's grey-brick alleys.

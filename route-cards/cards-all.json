@@ -1,1 +1,1629 @@
-{"cards":[{"slug":"guizhou-4d","accent":"#e8c15a","kicker":"GUIZHOU · 4 DAYS","title":"Guiyang → Libo → Anshun","sub":"Four days, two big sights, zero 20,000-step days.","days":[{"d":"01","place":"Guiyang","note":"Land, 20 min to town. Qingyun market at 7pm — skewers, snacks, fridge magnets."},{"d":"02","place":"Libo · Xiao Qi Kong","note":"11:50 train, ¥10 shuttle to the gate. East in, bus to West, walk down: Wolong Pool → Cuigu → Laya → exit."},{"d":"03","place":"Anshun · Huangguoshu","note":"¥22 bus from the station. Straight to the big waterfall, walk down, lift back up. Get off at Visitor Centre 2."},{"d":"04","place":"Guiyang","note":"Bean hotpot for lunch, then fly out. No alarm."}],"cost":"¥10 shuttle · ¥40 park bus · ¥22 coach","foot":"Save the route, skip the stairs."},{"slug":"hulunbuir-7d","accent":"#d9a441","kicker":"HULUNBUIR · 7 DAYS","title":"Hailar → Ergun → Moerdaoga → Arxan","sub":"Early autumn, north line first. The birches turn before Arxan does.","days":[{"d":"01","place":"Hailar → Ergun","note":"Two Rivers viewpoint, Moergele's river bends, Ergun wetland at dusk."},{"d":"02","place":"Ergun → Moerdaoga","note":"Genbai road, white birch all the way, reindeer park."},{"d":"03","place":"Forest train → Shiwei","note":"Old logging train, then the border river road: 9ka to 5ka."},{"d":"04","place":"Enhe → Heishantou","note":"Grassland, slide, horse ride at sunset. Sleep in a yurt."},{"d":"05","place":"Heishantou → Manzhouli","note":"Sheep feeding, then the city that looks like a stage set."},{"d":"06","place":"Manzhouli → Arxan","note":"Hulun Lake, then the volcanic forest."},{"d":"07","place":"Arxan → home","note":"Morning fog on Wusu Langzi, forest park, drive out."}],"cost":"~¥4,000 each · car rental extra","foot":"Offline maps. No signal out there."},{"slug":"nanji-2d","accent":"#5fb3c9","kicker":"NANJI ISLAND · 2 DAYS","title":"Wenzhou → Aojiang → Nanji","sub":"Sea meadows, blue water, and a very average hotel.","days":[{"d":"01","place":"Pingyang → island","note":"Train to Pingyang, 15 min to Aojiang pier, 2h ferry. Beach, sunset, seafood."},{"d":"02","place":"Sanpanwei → home","note":"Sunrise on the meadow, rainbow road, boat back by noon."}],"cost":"¥80 entry · ¥130-160 ferry · ¥45 bus pass","foot":"Clear day only. Wind is real."},{"slug":"jiangshan-2d","accent":"#c8875a","kicker":"JIANGSHAN · 2 DAYS","title":"Nianbadu → Jianglangshan","sub":"A living Ming-Qing town and a Danxia peak Xu Xiake climbed three times.","days":[{"d":"01","place":"Nianbadu old town","note":"3-4h. Bamboo bridge, tofu workshop, Wenchang Palace, East Rise bridge, echo wall."},{"d":"02","place":"Jianglangshan","note":"3-4h loop: Kaiming temple → Huixian rock → Xiake pavilion → One Line Sky → summit."}],"cost":"2-day pass, buy online","foot":"3h from Hangzhou by car."},{"slug":"daxinganling-5d","accent":"#caa14f","kicker":"GREATER KHINGAN · 5 DAYS","title":"Hailar → Ergun → Moerdaoga → Manzhouli","sub":"Autumn gold on a budget, booked late and still cheap.","days":[{"d":"01","place":"Hailar → Ergun","note":"Zhalumude wetland, Moergele river, Ergun wetland (¥75 with bus)."},{"d":"02","place":"Ergun → Moerdaoga","note":"Karting across the wetland, reindeer, forest train."},{"d":"03","place":"Moerdaoga → Shiwei","note":"Taiping, Shenxian slope, border town. Sleep in Linjiang for the fog."},{"d":"04","place":"Heishantou","note":"Horse ride at dusk, yurt, 180° sunset and stars."},{"d":"05","place":"Manzhouli → Hailar","note":"Matryoshka square, windmill road, Hulun Lake, back."}],"cost":"<¥4,000 each · 6 days","foot":"Morning fog at Linjiang is the whole trip."},{"slug":"zhenjiang-1d","accent":"#8fae8b","kicker":"ZHENJIANG · 1 DAY","title":"Jinshan → Xijindu, on foot","sub":"A river town with a thousand years and no queue.","days":[{"d":"AM","place":"Jinshan Temple","note":"¥60, 8:00-17:00. The temple that swallowed its own mountain."},{"d":"NOON","place":"Jingji Road","note":"Plane trees, Republican facades, old-town lunch."},{"d":"PM","place":"Museum","note":"Free, book ahead, closed Mondays. Former consulate building."},{"d":"DUSK","place":"Xijindu","note":"Free, open 24h. Stone street, old pagoda, lights on."}],"cost":"¥60 only · noodles ¥15","foot":"Pot-cover noodles + vinegar. Non-negotiable."},{"slug":"pujiang-2d","accent":"#a9a2d0","kicker":"PUJIANG · 2 DAYS","title":"Hangzhou → Pujiang → old villages","sub":"30 minutes by train, a thousand years by foot.","days":[{"d":"01","place":"Jiangnan First Family","note":"Nine archways, Zheng ancestral hall, wood carvings. Then Songxi village."},{"d":"02","place":"Longde Pagoda → Xinguang","note":"Song pagoda, forest temple with cats, Ming-Qing courtyard houses."}],"cost":"Train 30 min from Hangzhou","foot":"No crowds. That's the point."},{"slug":"qiyun-2d","accent":"#c96b5a","kicker":"QIYUN MOUNTAIN · 2 DAYS","title":"Huangshan's quieter neighbour","sub":"Red cliffs, carved inscriptions, a village on the edge.","days":[{"d":"01","place":"Xiaoyao street","note":"Arrive, wander, stay for the fish lanterns, fire show, sparks at night."},{"d":"02","place":"Big loop · 5h","note":"Cable car → Wangxian tower → Zhenxian cave → Moon Street → Yuxu Palace → summit → down."}],"cost":"Cable car + entry","foot":"Short loop exists. The long one is better."},{"slug":"songyang-1d","accent":"#7f9f77","kicker":"SONGYANG · 1 DAY","title":"Yangjiatang → Songzhuang → Chenjiapu","sub":"Rain makes it better. Three villages, one road.","days":[{"d":"10:30","place":"Yangjiatang","note":"Gold earth walls stacked up the slope. ¥20 for the man and his cow."},{"d":"13:00","place":"Songzhuang","note":"Stream through the village, stepping stones, a bowl of noodles."},{"d":"15:30","place":"Chenjiapu","note":"Cliff village in the cloud. Bookshop, coffee, nothing to do."}],"cost":"Free · drive yourself","foot":"Wear grip. The steps are mossy."},{"slug":"tibet-8d","accent":"#7ea6c9","kicker":"TIBET · 8 DAYS SELF-DRIVE","title":"Lhasa → Everest's east face → Pulan","sub":"Built from satellite maps, not tour brochures.","days":[{"d":"01","place":"Lhasa","note":"Land, hotel, sleep. Stay near Barkhor."},{"d":"02","place":"Lhasa","note":"Jokhang in the morning, Potala in the afternoon. Book ahead. No hair washing."},{"d":"03","place":"Yamdrok → Kangmar","note":"Skip the paid viewpoints, stop where locals park. Pumoyong Co, sleep at 4,500m."},{"d":"04","place":"Chongba → Dinggye","note":"Chongba Co, then the back road to Duina. Quden Nima glacier: take the high road."},{"d":"05","place":"Everest east → Gyirong","note":"Xilin viewpoint, Everest from the east, Pelkut Co, sleep in Gyirong town."},{"d":"06","place":"Gyirong → Zhongba","note":"Naxia village at dawn, Gyibu canyon, Nepali lunch, drive on."},{"d":"07","place":"Manasarovar → Pulan","note":"Jiwu temple, La'ang Co for Kailash, border market at Pulan."},{"d":"08","place":"Kailash base → out","note":"Base camp, canal viewpoint on the 219, start the long way home."}],"cost":"Guide + permit required","foot":"Two days to acclimatise. Seriously."},{"slug":"dali-month","accent":"#c8b48a","kicker":"DALI · ONE MONTH","title":"¥2,700 for 30 days","sub":"Rent first, plans second. The cheap room is found on foot.","days":[{"d":"RENT","place":"¥700 / month","note":"Village self-built room in Fengyangyi: water, wifi, own bathroom. Sunny days make the hot water forgivable."},{"d":"FOOD","place":"¥900 / month","note":"Noodles ¥10-20, Bai meals ¥40-50, one big dinner a week. Coffee ¥5 or ¥17, your call."},{"d":"MOVE","place":"¥300 / month","note":"Bus on the 214, ¥3 goes far. Taxis ¥10-20 when it rains."},{"d":"FUN","place":"¥400 / month","note":"Sunrise, lake loops, seagulls, free evening music. Dali is cheap if you stop buying views."}],"cost":"¥2,700 total · 30 days","foot":"Short-let 5 nights, then commit."},{"slug":"europe-9c","accent":"#8fb4c9","kicker":"EUROPE · 9 COUNTRIES · 28 DAYS","title":"Budapest → Athens on ¥15,660","sub":"Dorms, night buses, one real meal a day.","days":[{"d":"01-04","place":"Budapest → Vienna → Prague","note":"Trains and buses. Buy a 72h transit pass, walk the rest."},{"d":"05-08","place":"Berlin","note":"Hostel in Kreuzberg. Museum island one day, nothing the next."},{"d":"09-12","place":"Rome","note":"Night bus in, two nights, one long walk, one pizza."},{"d":"13-17","place":"Barcelona → Madrid","note":"Book Renfe early or take the bus. Tapas standing up is cheapest."},{"d":"18-21","place":"Lisbon","note":"Tram 28 before 9am. Sardines for dinner, €3."},{"d":"22-26","place":"Athens","note":"Fly in on a budget carrier. Acropolis at opening time."},{"d":"27-28","place":"Back to Budapest","note":"Cheap return flight, one last thermal bath."}],"cost":"¥2,600 beds · ¥5,423 flights · ¥1,000 trains","foot":"Pack earplugs. Dorms are loud."},{"slug":"qinggan-9d","accent":"#d9a05b","kicker":"QINGHAI-GANSU · 9 DAYS","title":"Xining to Lanzhou, both ends open","sub":"~¥5,000. Slightly hard, entirely worth it.","days":[{"d":"01","place":"Hangzhou → Xining","note":"Overnight train. Sleep, wake up at altitude."},{"d":"02","place":"Xining · Ta'er Monastery","note":"Acclimatise. Butter lamps and cold air."},{"d":"03","place":"Qinghai Lake → Chaka","note":"Erlangjian, then salt flats at sunset. Windproof everything."},{"d":"04","place":"Golmud → Dunhuang","note":"Chaidamu salt lakes, Black Lone Mountain, long empty road."},{"d":"05","place":"Dunhuang west","note":"Yang Pass, Yumen Pass, Yadan landforms. Bring water, no shade."},{"d":"06","place":"Mogao → Mingsha","note":"Caves in the morning, dunes at dusk. Night market after."},{"d":"07","place":"Zhangye","note":"Pingshan Lake canyon. Get there early, colours change by noon."},{"d":"08","place":"Mati Temple → Lanzhou","note":"Cliff monasteries, then a 3h train. Night market in Lanzhou."},{"d":"09","place":"Lanzhou → home","note":"Museum, bridge, beef noodles, plane."}],"cost":"¥4,079 transport+entry+beds","foot":"Fuel up early. Stations are far apart."},{"slug":"chuandong-5d","accent":"#7fa3b8","kicker":"WESTERN SICHUAN · 5 DAYS","title":"Chengdu → Siguniang","sub":"¥2,500 each, no alarms, two shots at a golden summit.","days":[{"d":"01","place":"Hangzhou → Chengdu","note":"Late flight, airport hotel. Pick up the car in the morning."},{"d":"02","place":"Xinduqiao","note":"Drive, then Juli Temple ridge for sunset on the peaks."},{"d":"03","place":"Moon Lake → Zimei ridge","note":"Forest lake in the morning, another sunset attempt at 4,500m."},{"d":"04","place":"Tagong → Danba → Siguniang","note":"Grassland, monastery, then the long valley road."},{"d":"05","place":"Shuangqiao valley → Chengdu","note":"One valley, all of western Sichuan's landforms. Then drive back and fly."}],"cost":"¥2,500 each · SUV ¥898 + full insurance","foot":"Oxygen in the boot. Sleep below 3,500m."},{"slug":"sichuan-tibet-7d","accent":"#c9a06a","kicker":"318 · CHENGDU → LHASA · 7 DAYS","title":"4,300 km of road and weather","sub":"¥2,400 for two. ¥1,200 each. Not a holiday.","days":[{"d":"01","place":"Chengdu → Yajiang","note":"430 km. Zheduo Pass is where 318 begins."},{"d":"02","place":"Yajiang → Batang","note":"310 km. Eighteen bends, Litang, grassland, twin lakes."},{"d":"03","place":"Batang → Rumei","note":"150 km. Cross the Jinsha river, enter Tibet, roads narrow."},{"d":"04","place":"Rumei → Basu","note":"310 km. Dongda Pass, 72 turns. A truck closed the road for six hours."},{"d":"05","place":"Basu → Bomi","note":"220 km. Ranwu Lake, turquoise and cold."},{"d":"06","place":"Bomi → Nyingchi","note":"230 km. Tongmai, Lulang, forest and rain."},{"d":"07","place":"Nyingchi → Lhasa","note":"400 km. Arrive at dusk and stop arguing with the trip."}],"cost":"Fuel ¥1,217 · food ¥592 · beds ¥522","foot":"Altitude is not negotiable."},{"slug":"zhejiang-4routes","accent":"#76a9a0","kicker":"ZHEJIANG · 4 COAST DRIVES","title":"Four long-weekend routes","sub":"All free to drive. All with the sea on one side.","days":[{"d":"168","place":"Cangnan coast road","note":"168 km, 9 stops. Chongjia'ao tidal flats, Yandun sea watchtower, Longtai back, Yanting beach, Jinshan town."},{"d":"145","place":"Xiangshan loop","note":"Windmill tunnel, Fantong hill, Songlanshan beach, Dongdan village, Shipu old port, Hua'ao island."},{"d":"2D","place":"Wenling coast","note":"Day 1 Songmen market, Shuitong'ao, Daken beach. Day 2 sunrise at Shitang, Xiaoruo village colours."},{"d":"60","place":"Anhui-Zhejiang sky road","note":"Kantou village, Meiganling terraces, Shangcun, Qingren falls, Yunshan ridge at 1,200m."}],"cost":"Free · fuel only","foot":"Go midweek. Every viewpoint is a car park."},{"slug":"wenchang-2d","accent":"#6fb6c9","kicker":"HAINAN · WENCHANG · 2 DAYS","title":"Hainan's best coast road","sub":"Day 1 windmills and temples, day 2 coconuts and old streets.","days":[{"d":"01","place":"Haikou → Mulan Bay","note":"Windmill coast, Baohu Cape, Moon Bay, Foguang Temple by the sea, Stone Park."},{"d":"02","place":"Qishui Bay → Wennan","note":"Dongjiao coconut grove, sea library at Yilong Bay, old arcade streets of Wennan."}],"cost":"Free except Stone Park","foot":"Sleep near Qishui Bay. Book early."},{"slug":"hangzhou-night","accent":"#b48fc9","kicker":"HANGZHOU · AFTER WORK","title":"Five night walks, 6pm to 10pm","sub":"Eat first. Then one of these. No taxis required.","days":[{"d":"1","place":"West Lake north","note":"Broken Bridge → Beishan Road → Gushan Road → Baidi. 3 km, plane trees, boat lights."},{"d":"2","place":"The canal","note":"Dadou Road → Xiaohe park → Xiaohe old street. Stone slabs, cargo barges, warm lamps."},{"d":"3","place":"City balcony","note":"Light show 19:30 and 20:30, then walk the embankment west. Crowd thins after 21:00."},{"d":"4","place":"Lake loop by bike","note":"10 km, 1-1.5h on a shared bike. Beishan tunnel of trees, Yanggong causeway."},{"d":"5","place":"Hefang Street","note":"Southern Song imperial street → Hefang → Drum Tower. Snacks, lanterns, old shops."}],"cost":"Free · ¥1.5 bike","foot":"Skip Hefang on weekends. Genuinely."},{"slug":"nanjing-3d","accent":"#d08a72","kicker":"NANJING · 3 DAYS","title":"Three days, zero wasted walks","sub":"Sun Yat-sen, a temple, a wall, a museum, and a lot of duck.","days":[{"d":"01","place":"Purple Mountain","note":"Wutong avenue → Meiling Palace → music stage → Sun Yat-sen mausoleum → Confucius Temple at night."},{"d":"02","place":"City wall day","note":"Jiming Temple → Taicheng wall → Xuanwu Lake → Avant-garde bookstore → Xinjiekou."},{"d":"03","place":"Museum day","note":"Nanjing Museum → Presidential Palace → Six Dynasties Museum → memorial → Kexiang for food."}],"cost":"Most sites free · book museum","foot":"Do not skip Kexiang. Do skip the tourist duck."},{"slug":"chuanzang-10d","accent":"#7d9ec4","kicker":"318 · CHENGDU → LHASA · 10 DAYS","title":"The south line, done properly","sub":"434 instead of 318 on day two. Oxygen in the car.","days":[{"d":"01","place":"Chengdu → Kangding","note":"Pick up the car at Shuangliu, Luding bridge on the way. Sleep low."},{"d":"02","place":"Kangding → Xinduqiao","note":"Take the 434. Yuzixi or Moshi park, one of them, not both."},{"d":"03","place":"Xinduqiao → Daocheng","note":"9-10h. Eighteen bends, Wuliang river, Hare mountain. Cash for toilets."},{"d":"04","place":"Daocheng Yading","note":"One hour bus to the trailhead. Motion sickness pills for the way back."},{"d":"05","place":"Daocheng → Batang","note":"Twin lakes. Batang is small, Tibetan, worth an evening."},{"d":"06","place":"Batang → Basu","note":"11h. Enter Tibet, Dongda Pass, 72 turns. Leave early."},{"d":"07","place":"Basu → Bomi","note":"Ranwu Lake. Then subtropical forest and oxygen you can breathe."},{"d":"08","place":"Bomi → Nyingchi","note":"Lulang stone-pot chicken. Namcha Barwa if the sky opens."},{"d":"09","place":"Nyingchi → Lhasa","note":"4h. Museum in the afternoon, Barkhor at dusk."},{"d":"10","place":"Lhasa","note":"Potala morning, Jokhang afternoon, souvenirs at Barkhor mall."}],"cost":"Entry ¥80 + bus ¥70 at Siguniang","foot":"Book cancellable hotels. Weather wins."},{"slug":"yili-8d","accent":"#9ab87a","kicker":"XINJIANG · ILI LOOP · 8 DAYS","title":"Yining → Sayram → Kanas","sub":"¥3,200 each. Rent the car, skip the tour.","days":[{"d":"01","place":"Yining","note":"Fly in, stay on Six Star Street. Police at every corner, walkable at night."},{"d":"02","place":"Sayram Lake","note":"2-3h drive. Ticket valid 24h. Loop once, sleep at the east gate."},{"d":"03","place":"Sayram → Kuytun","note":"Sunrise at Dianjiangtai around 8:20 in winter. Then 3.5h east."},{"d":"04","place":"Urho ghost city → Burqin","note":"5-6h. Park outside, take the little train. Two hours is plenty."},{"d":"05","place":"Baihaba","note":"4h with livestock on the road. Border permit on the way. Wooden cabin facing the snow."},{"d":"06","place":"Kanas","note":"Shuttle from Baihaba, 1h. Only worth it in good weather."},{"d":"07","place":"Baihaba → Altay","note":"Morning fog, walk to the old village for breakfast, drive out slowly."},{"d":"08","place":"Altay → home","note":"Fly out. Total ¥3,200 each without flights."}],"cost":"¥3,200 each · car + fuel","foot":"Check the weather daily. Ili punishes optimists."},{"slug":"xiangshan-coast","accent":"#5fa8bd","kicker":"NINGBO · 145 KM · 9 STOPS","title":"Xiangshan coast loop","sub":"Windmills, fishing ports, volcanic rock. One tank of fuel.","days":[{"d":"01","place":"Changsha tunnel","note":"800 m of windmill road, the sea at the end of it."},{"d":"02","place":"Fantong hill","note":"Grass, cows, sea sunrise. Zhejiang's little Sayram."},{"d":"03","place":"Songlan beach","note":"Half mountain, half sea, fine sand."},{"d":"04","place":"Dongdan village","note":"Green, damp, slightly forgotten. Walk it slowly."},{"d":"05","place":"Shipu film town","note":"Where half the period dramas are shot. Skip unless curious."},{"d":"06","place":"Shipu old port","note":"600 years old. Free after 5pm. Fish smells honest."},{"d":"07","place":"Hepu beach","note":"Ferry across, then the biggest sand in the bay."},{"d":"08","place":"Hua'ao island","note":"120 million year old volcanic columns and salt pans."}],"cost":"Ferry ¥20-40 · most stops free","foot":"Two days. One is too rushed."},{"slug":"beijiang-8d","accent":"#8aa9c4","kicker":"NORTHERN XINJIANG · 8 DAYS","title":"Yining → Sayram → Kanas","sub":"Two women, no 6am starts, never more than 5h driving.","days":[{"d":"01","place":"Shanghai → Yining","note":"5h flight. Six Star Street, walkable, police on every corner."},{"d":"02","place":"Sayram Lake","note":"2-3h drive. Ticket valid 24h. Loop once, sleep at the east gate."},{"d":"03","place":"Sayram → Kuytun","note":"Sunrise at Dianjiangtai, around 8:20. Then 3.5h east."},{"d":"04","place":"Urho → Burqin","note":"Ghost city by little train, 5-6h total. Sleep in Burqin."},{"d":"05","place":"Baihaba","note":"4h with livestock on the road. Border permit en route. Cabin facing snow."},{"d":"06","place":"Kanas","note":"Shuttle 1h. Only in good weather. Rain ruins it."},{"d":"07","place":"Baihaba → Altay","note":"Morning fog, breakfast in the old village, slow drive out."}],"cost":"¥3,200 each without flights","foot":"Check weather daily. Ili punishes optimists."},{"slug":"china-13routes","accent":"#c49a5f","kicker":"CHINA · 13 HOLIDAY ROUTES","title":"Pick by days, not by photos","sub":"From hardcore gravel to lying on a beach.","days":[{"d":"7D","place":"Guoluo · SW Yunnan · Shannan","note":"High plateau wildlife, hot springs and border towns, Himalayan monasteries."},{"d":"8D","place":"Gannan · Hulunbuir · Ili","note":"Longest prayer corridor, autumn grassland, spruce forests and horse herds."},{"d":"7D","place":"G315 · G109","note":"China's loneliest road through Chaidamu; the highest road over Kekexili."},{"d":"10D","place":"Yunnan-Tibet · Hainan","note":"Hengduan mountains to Lhasa; surf, salt fields and rockets on one island."},{"d":"3D","place":"Southern Anhui","note":"120 km, all the drama of 318 with none of the altitude."},{"d":"2D","place":"Lixiao road · Weihai","note":"94 km from 2,000m to 3,600m; or 1,000 km of Shandong coast."}],"cost":"Fuel + tolls · ¥0-300 entry","foot":"Book beds before the holiday, not during."},{"slug":"japan-30d","accent":"#c98f9a","kicker":"JAPAN · 30 DAYS · ¥24,874","title":"Where the money went","sub":"632,353 steps. ¥777 a day. No dorms, no regrets.","days":[{"d":"33%","place":"Beds · ¥8,149","note":"Business hotels near stations, about ¥255 a night. Cheap, clean, breakfast included."},{"d":"31%","place":"Transport · ¥7,763","note":"JR Hokuriku arch pass + San'in pass ¥2,485, flights ¥1,925, the rest buses and metros."},{"d":"18%","place":"Food · ¥4,418","note":"¥138 a day: university canteens, supermarkets, gyudon, one proper meal a week."},{"d":"11%","place":"Shopping · ¥2,798","note":"Fridge magnets, souvenirs, a suitcase, a SIM. Nothing impulsive."},{"d":"6%","place":"Entry · ¥1,572","note":"USJ, drift ice cruise, onsens, cable cars."}],"cost":"Sapporo → Tokyo → Kansai → Kyushu","foot":"Thirty days is the sweet spot on a 3-year visa."},{"slug":"pingtan-3d","accent":"#6fb6c9","kicker":"PINGTAN · 3 DAYS · FUJIAN","title":"Windmills, S-bends, empty sand","sub":"High-speed rail to Pingtan station, then a car.","days":[{"d":"01","place":"Jingsha → Changjiang'ao","note":"Jingsha at low tide (check the tide table), then sunset on the big beach."},{"d":"02","place":"North line","note":"Tanshui swing, ecological corridor windmills, the S-bend, Maotouqian, Heping village at dusk."},{"d":"03","place":"Sunrise → Tannan Bay","note":"Watch the sun from bed, then shells and sand before the train home."}],"cost":"Car ¥200/day · most spots free","foot":"North line early. Everyone has the same idea by 10am."},{"slug":"41cities-115d","accent":"#8fae8b","kicker":"115 DAYS · 41 CITIES · ¥20,000","title":"The rules that made it work","sub":"No taxis. No hotels. One bag.","days":[{"d":"01","place":"Southwest","note":"Chongqing → Guiyang → Yangshuo → Guilin → Liuzhou → Nanning → Beihai."},{"d":"02","place":"Coast","note":"Guangzhou → Shunde → Shantou → Nan'ao → Dongshan → Xiamen → Quanzhou → Pingtan → Fuzhou."},{"d":"03","place":"East","note":"Wenzhou → Shaoxing → Hangzhou → Wuzhen → Nanxun → Xitang → Suzhou → Nanjing."},{"d":"04","place":"North","note":"Qingdao → Weihai → Yantai → Jinan → Tai'an → Tianjin → Beijing → Datong."},{"d":"05","place":"West","note":"Hohhot → Ulanqab → Yinchuan → Zhongwei → Lanzhou → Chengdu → Jiuzhaigou → Chongqing."}],"cost":"¥174 a day · hostel beds ¥40-60","foot":"Book the hostel, not the itinerary."},{"slug":"zhuge-1d","accent":"#b09a6a","kicker":"LANXI · 1 DAY","title":"A village built as a diagram","sub":"700 years old, nine palaces and eight trigrams.","days":[{"d":"AM","place":"Youbu old town","note":"Breakfast first: egg pancake, meat dumpling, salty soy milk."},{"d":"NOON","place":"Zhong Pond","note":"The yin-yang eye of the layout. Half well, half land."},{"d":"PM","place":"Ancestral hall → Tiantang","note":"Fat beams, carved brackets. Then the hilltop for the whole village."},{"d":"6:30","place":"Lanterns","note":"Fish lanterns, Kongming lights, NPC skits in the lanes."}],"cost":"Entry ¥80-100 · breakfast ¥15","foot":"1h from Jinhua station by car."},{"slug":"jiande-2d","accent":"#8fa6b8","kicker":"JIANDE · 2 DAYS · 1H FROM HANGZHOU","title":"Cliff temple and river town","sub":"Shouchang, Lingqi cave, Yanzhou, Daci Rock.","days":[{"d":"01","place":"Shouchang old town","note":"Lunch, then Lingqi cave. Stalagmites lit like a film set. 2h."},{"d":"02","place":"Yanzhou ancient city","note":"River wall, old gates, a hotel inside the old town."},{"d":"03","place":"Daci Rock","note":"Temple half built into the cliff. Cable car up, alpine slide down."}],"cost":"Cable car ¥50 · cave ¥80","foot":"Go early. The cliff walkway queues."},{"slug":"tibet-6d","accent":"#7fa3c9","kicker":"TIBET · 6 DAYS · SMALL LOOP","title":"Lhasa → Nyima → Bangoin","sub":"Two oxygen tanks. One 9.5-hour day.","days":[{"d":"01","place":"Lhasa → Yamdrok → Shigatse","note":"Skip paid viewpoints, stop where locals park."},{"d":"02","place":"Shigatse → Tingri","note":"Ten Thousand Dunes, Everest monument, Guandi temple."},{"d":"03","place":"Tingri → Saga","note":"Pelkut Co with Shishapangma behind it."},{"d":"04","place":"Saga → Nyima","note":"9.5h. Zari Namtso, Tangra Yumco. The long day."},{"d":"05","place":"Nyima → Bangoin","note":"Selin Co, the biggest lake in Tibet. 3.5h."}],"cost":"Guide + permit · oxygen ¥200/tank","foot":"Sleep below 4,200m where you can."},{"slug":"yangzhou-2d","accent":"#9aa87a","kicker":"YANGZHOU · 2 DAYS","title":"Gardens, alleys, breakfast","sub":"Small city, short distances, slow mornings.","days":[{"d":"01","place":"Dongguan street","note":"Old shops, then Ge Garden. Bamboo, rockeries, four seasons in one courtyard."},{"d":"02","place":"Pishi street","note":"Bookshops, the big YANGZHOU wall, Zhu Ziqing's house down a lane."},{"d":"03","place":"Old salt district","note":"Restored merchant courtyards, coffee in a 200-year-old hall."},{"d":"04","place":"He Garden at night","note":"The performance is worth it. Sit near the water."}],"cost":"¥45 Ge Garden · ¥80 He Garden","foot":"Eat breakfast twice. It's that good."},{"slug":"qinggan-8d","accent":"#d8a45e","kicker":"QINGHAI-GANSU · 8 DAYS","title":"Xining to Lanzhou, ¥2,900","sub":"Free viewpoints over paid ones.","days":[{"d":"01","place":"Xining","note":"Rest. Altitude first, sightseeing second."},{"d":"02","place":"Qinghai Lake → Chaka","note":"South hill viewpoint free. Chaka at the last stop, not the first."},{"d":"03","place":"Chaidamu","note":"Salt lake, water Yadan, U-shaped road from the verge."},{"d":"04","place":"Da Qaidam → Dunhuang","note":"Emerald Lake gate 2, Black Lone Mountain, long drive."},{"d":"05","place":"Dunhuang","note":"Mogao with an A ticket. Dunes at 4:30pm."},{"d":"06","place":"Zhangye","note":"Danxia north gate, platform 4 before sunset."},{"d":"07","place":"Qilian","note":"Grassland, Gangshika snow, back to Xining."},{"d":"08","place":"Lanzhou","note":"Noodles, museum, flight."}],"cost":"¥2,900 each · car + fuel + beds","foot":"Book Mogao 30 days ahead."},{"slug":"sanxia-2d","accent":"#6f9bb0","kicker":"THREE GORGES · 1 WEEKEND","title":"Fly Friday, hike Saturday","sub":"¥1,000. Brutal and worth it.","days":[{"d":"FRI","place":"Changzhou → Chongqing","note":"21:00 flight, airport hotel. Sleep 5 hours."},{"d":"SAT","place":"Fengjie summit","note":"6am train, 8am bus, 2h on the ridge, boat to Wushan at 13:20."},{"d":"SAT","place":"Wushan night climb","note":"Dragon ridge by headtorch, 2h up. Sleep on the mountain."},{"d":"SUN","place":"Sunrise → home","note":"Cloud sea over the gorge, then the long way back."}],"cost":"~¥1,000 all in","foot":"Head torch. Real shoes."},{"slug":"yili-low-8d","accent":"#9ab87a","kicker":"ILI · 8 DAYS · LOW ENERGY","title":"Never more than 3h driving","sub":"One driver. No alarms. Good beds.","days":[{"d":"01","place":"Yining","note":"Fly in, Six Star Street, supermarket snacks."},{"d":"02","place":"Sayram Lake","note":"2h drive, loop once, sleep at the east gate."},{"d":"03","place":"Zhaosu","note":"4.5h via G219. Or the Yizhao road if the weather is kind."},{"d":"04","place":"Xiata → Tekes","note":"Xiata in the morning, 20 km on foot, then 2.5h."},{"d":"05","place":"Kalajun → Qiaxi","note":"40 min then 2.5h. Grassland gradient all day."},{"d":"06","place":"Qiaxi → Nalati","note":"3h. Valley walk in the morning, drive after lunch."},{"d":"07","place":"Nalati","note":"No driving. Sunset on the grass. Photo day."}],"cost":"¥3,500 each · car + beds","foot":"Book Sayram and Nalati early."},{"slug":"georgia-17d","accent":"#c98d6a","kicker":"GEORGIA · 17 DAYS · ¥4,672","title":"Land border in, land border out","sub":"Marshrutkas, guesthouses, bread and cheese.","days":[{"d":"BEDS","place":"¥1,063","note":"Guesthouses and five nights camping. About ¥63 a night."},{"d":"MOVE","place":"¥761","note":"Shared taxis and minibuses. Tbilisi to Yerevan ¥30."},{"d":"FOOD","place":"¥2,154","note":"Eating out twice a day. Khachapuri is not cheap when it's every meal."},{"d":"GEAR","place":"¥694","note":"Tent, mat, wine. The tent paid for itself in five nights."}],"cost":"No flights · overland entry","foot":"Carry cash outside the big cities."},{"slug":"xibei-8d","accent":"#cf9a63","kicker":"NORTHWEST · 8 DAYS","title":"Xining → Dunhuang → Xining","sub":"A different colour every day.","days":[{"d":"01","place":"Zhengzhou → Xining","note":"City hotel. Sleep early."},{"d":"02","place":"Qilian → Zhangye","note":"Gangshika snow, Qilian grassland, Danxia at dusk."},{"d":"03","place":"Jiayuguan → Yumen","note":"Desert poplar forest, fortress from the road."},{"d":"04","place":"Dunhuang","note":"Earth's Son sculpture, Mingsha dunes, Crescent Lake."},{"d":"05","place":"Mogao → Lenghu","note":"Caves early, Black Lone Mountain, sleep at Lenghu."},{"d":"06","place":"Water Yadan → Delingha","note":"Yadan at noon, U-shaped road, 227 km after."},{"d":"07","place":"Chaka → Xining","note":"Salt lake early, 300 km back."}],"cost":"Fuel + entry · ~¥3,500","foot":"One day, one colour. Don't rush it."},{"slug":"s101-danxia","accent":"#c9655a","kicker":"XINJIANG · S101 · 1 DAY","title":"360 km, free, empty","sub":"Five segments or the app puts you on the highway.","days":[{"d":"01","place":"Urumqi → Sulfur Gully","note":"60 km. Red and orange rock layers, roadside pull-offs."},{"d":"02","place":"Hundred-mile Danxia","note":"35 km. Jiangshan Duojiao viewpoint first. Free."},{"d":"03","place":"Kensiwate reservoir","note":"45 km. Turquoise water against red cliffs. Drone spot."},{"d":"04","place":"Dushanzi canyon","note":"120 km. Best light after 6pm. Closes 21:30."},{"d":"05","place":"Kuitun","note":"30 km. Sleep, fuel, tomorrow Sayram."}],"cost":"Free road · canyon ¥40","foot":"Navigate segment by segment."},{"slug":"chuanxi-5d","accent":"#7fa3b8","kicker":"WESTERN SICHUAN · 5 DAYS","title":"Small loop, no backtracking","sub":"Chengdu → Danba → Tagong → Kangding.","days":[{"d":"01","place":"Chengdu → Wenchuan","note":"Pick up the car, drive the valley, sleep low."},{"d":"02","place":"Danba","note":"Tibetan towers, river gorge, 2,000m."},{"d":"03","place":"Tagong grassland","note":"Yala snow mountain, monastery, yak butter tea."},{"d":"04","place":"Xinduqiao","note":"Photo heaven. Poplar, river, horses."},{"d":"05","place":"Kangding → Chengdu","note":"Zheduo Pass early, then home."}],"cost":"¥2,000 each · car + beds","foot":"Altitude gains are gentle. Still drink water."},{"slug":"dianxi-5d","accent":"#7aa88f","kicker":"WEST YUNNAN · 5 DAYS","title":"Mangshi → Ruili → Tengchong","sub":"Border markets, hot springs, Dai food.","days":[{"d":"01","place":"Mangshi → Ruili","note":"1.5h. One Village Two Countries, Jiegao gate."},{"d":"02","place":"Ruili → Tengchong","note":"Dai palace, tropical forest, 2h drive. Hot sea at night."},{"d":"03","place":"Tengchong","note":"Qiluo old town, volcano park. Best lane for souvenirs."},{"d":"04","place":"Tengchong → Mangshi","note":"1.5h. Golden pagoda at 4pm, silver pagoda at sunset."},{"d":"05","place":"Mangshi","note":"Market, noodles, temple, flight out."}],"cost":"Car ¥251/3 days · tolls ¥193","foot":"Skip the roadside jade shops."},{"slug":"sapu-6d","accent":"#8fa8c4","kicker":"LHASA → SAPU · 6 DAYS","title":"High, cold, very quiet","sub":"Sleep at 3,900m, not 4,700m.","days":[{"d":"01","place":"Lhasa → Shigatse","note":"Yamdrok south line, Karola glacier. 5.5h."},{"d":"02","place":"Shigatse → Bangoin","note":"Selin Co viewpoint, 3h. 4,700m, oxygen hotel."},{"d":"03","place":"Bangoin → Biru","note":"Via Nagqu. Stock up, no big towns after."},{"d":"04","place":"Biru → Sapu","note":"2h. Inner-lake guesthouse, butter tea, thin air."},{"d":"05","place":"Sapu → Nagqu","note":"6h back. Or retreat to Biru if altitude bites."},{"d":"06","place":"Nagqu → Namtso → Lhasa","note":"7.5h on G349. Drop the car, walk Barkhor."}],"cost":"Car + oxygen · guide required","foot":"87 km/h got me a fine. Watch the cameras."},{"slug":"china-ring","accent":"#c9a45e","kicker":"CHINA · 30,000 KM · 3 ROADS","title":"G219 + G331 + G228","sub":"Start and finish at Dongxing. 80-120 days.","days":[{"d":"G219","place":"Dongxing → Kanas","note":"10,065 km. Guangxi, Yunnan, Tibet, Xinjiang. The hardest and the best."},{"d":"G331","place":"Kanas → Dandong","note":"9,300 km. Altai, Hulunbuir, Mohe, Changbai. Autumn is the season."},{"d":"G228","place":"Dandong → Dongxing","note":"7,800 km. Four seas, every fishing port, the whole coast."}],"cost":"Fuel ~¥17,000 · 60 fill-ups","foot":"Permits for Xinjiang, Tibet, Yunnan borders."},{"slug":"poyang-1d","accent":"#8fae8b","kicker":"POYANG LAKE · 1 DAY","title":"Nanchang → lake → rice fields","sub":"No entrance fee. Bring a car.","days":[{"d":"10:00","place":"Neiqing village","note":"A lake island with a car park. Blue water when the weather behaves."},{"d":"13:00","place":"Chuan Kuijia","note":"Grassland this way. Green as a cartoon, empty as a Monday."},{"d":"16:30","place":"Wuxing farm","note":"Camphor avenue, golden rice, sunset. Stay until the light goes."}],"cost":"Free · fuel only","foot":"Check water levels before you go."},{"slug":"zhejiang-8routes","accent":"#76a9a0","kicker":"ZHEJIANG · 8 DRIVES","title":"One year of weekend routes","sub":"Bamboo, canyons, coast, sky roads.","days":[{"d":"01","place":"Anji · Moganshan","note":"Bamboo forest, guesthouses, coffee. Busy on weekends."},{"d":"02","place":"Huzhou river line","note":"Shallow water, old villages, almost no cars."},{"d":"03","place":"Lin'an canyon","note":"Free, no ticket, gorge and stream the whole way."},{"d":"04","place":"Hangzhou loop","note":"Flat, shallow, kid-safe. Free."},{"d":"05","place":"Ningbo cloud road","note":"Sea of clouds at the top, East China Sea below."},{"d":"06","place":"Ninghai coast","note":"Mountain on one side, sea on the other, empty tarmac."},{"d":"07","place":"Xianju waterfalls","note":"Mountain driving and swimming holes in the same afternoon."},{"d":"08","place":"Suichang sky road","note":"Highest paved road in Zhejiang. Free terraces."}],"cost":"Most routes free · fuel only","foot":"Midweek, always midweek."},{"slug":"anji-day","accent":"#8fb46a","kicker":"ANJI · HALF A DAY","title":"Free meadow, free parking","sub":"One hour from Hangzhou. Dogs allowed.","days":[{"d":"15:00","place":"Arrive","note":"Ancient city ruins park. No gate, no ticket, no queue."},{"d":"16:00","place":"Set up","note":"Mat, book, thermos. Sunset around 18:30 in autumn."},{"d":"19:00","place":"Stay","note":"Stars if the sky is clear, silence if it isn't."}],"cost":"Free entry · free parking","foot":"Bring mosquito repellent. Really."},{"slug":"yixing-2d","accent":"#c9a06a","kicker":"YIXING · 2 DAYS","title":"Kiln town and bamboo train","sub":"2h from Hangzhou by car.","days":[{"d":"01","place":"Cloud train","note":"Through bamboo and tea fields. Slow on purpose."},{"d":"02","place":"Longyao street","note":"Pottery workshops, kiln museums, one good coffee."},{"d":"03","place":"Birds at dusk","note":"258 raptors circling. Sit down and stop talking."},{"d":"04","place":"Water-and-fire show","note":"20:00. Get there 20 minutes early for the front."}],"cost":"Entry ¥80-120 · train extra","foot":"Sleep at the kiln hotel."}]}
+{
+ "cards": [
+  {
+   "slug": "guizhou-4d",
+   "accent": "#e8c15a",
+   "kicker": "GUIZHOU · 4 DAYS",
+   "title": "Guiyang → Libo → Anshun",
+   "sub": "Four days, two big sights, zero 20,000-step days.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Guiyang",
+     "note": "Land, 20 min to town. Qingyun market at 7pm — skewers, snacks, fridge magnets."
+    },
+    {
+     "d": "02",
+     "place": "Libo · Xiao Qi Kong",
+     "note": "11:50 train, ¥10 shuttle to the gate. East in, bus to West, walk down: Wolong Pool → Cuigu → Laya → exit."
+    },
+    {
+     "d": "03",
+     "place": "Anshun · Huangguoshu",
+     "note": "¥22 bus from the station. Straight to the big waterfall, walk down, lift back up. Get off at Visitor Centre 2."
+    },
+    {
+     "d": "04",
+     "place": "Guiyang",
+     "note": "Bean hotpot for lunch, then fly out. No alarm."
+    }
+   ],
+   "cost": "¥10 shuttle · ¥40 park bus · ¥22 coach",
+   "foot": "Save the route, skip the stairs."
+  },
+  {
+   "slug": "hulunbuir-7d",
+   "accent": "#d9a441",
+   "kicker": "HULUNBUIR · 7 DAYS",
+   "title": "Hailar → Ergun → Moerdaoga → Arxan",
+   "sub": "Early autumn, north line first. The birches turn before Arxan does.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Hailar → Ergun",
+     "note": "Two Rivers viewpoint, Moergele's river bends, Ergun wetland at dusk."
+    },
+    {
+     "d": "02",
+     "place": "Ergun → Moerdaoga",
+     "note": "Genbai road, white birch all the way, reindeer park."
+    },
+    {
+     "d": "03",
+     "place": "Forest train → Shiwei",
+     "note": "Old logging train, then the border river road: 9ka to 5ka."
+    },
+    {
+     "d": "04",
+     "place": "Enhe → Heishantou",
+     "note": "Grassland, slide, horse ride at sunset. Sleep in a yurt."
+    },
+    {
+     "d": "05",
+     "place": "Heishantou → Manzhouli",
+     "note": "Sheep feeding, then the city that looks like a stage set."
+    },
+    {
+     "d": "06",
+     "place": "Manzhouli → Arxan",
+     "note": "Hulun Lake, then the volcanic forest."
+    },
+    {
+     "d": "07",
+     "place": "Arxan → home",
+     "note": "Morning fog on Wusu Langzi, forest park, drive out."
+    }
+   ],
+   "cost": "~¥4,000 each · car rental extra",
+   "foot": "Offline maps. No signal out there."
+  },
+  {
+   "slug": "nanji-2d",
+   "accent": "#5fb3c9",
+   "kicker": "NANJI ISLAND · 2 DAYS",
+   "title": "Wenzhou → Aojiang → Nanji",
+   "sub": "Sea meadows, blue water, and a very average hotel.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Pingyang → island",
+     "note": "Train to Pingyang, 15 min to Aojiang pier, 2h ferry. Beach, sunset, seafood."
+    },
+    {
+     "d": "02",
+     "place": "Sanpanwei → home",
+     "note": "Sunrise on the meadow, rainbow road, boat back by noon."
+    }
+   ],
+   "cost": "¥80 entry · ¥130-160 ferry · ¥45 bus pass",
+   "foot": "Clear day only. Wind is real."
+  },
+  {
+   "slug": "jiangshan-2d",
+   "accent": "#c8875a",
+   "kicker": "JIANGSHAN · 2 DAYS",
+   "title": "Nianbadu → Jianglangshan",
+   "sub": "A living Ming-Qing town and a Danxia peak Xu Xiake climbed three times.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Nianbadu old town",
+     "note": "3-4h. Bamboo bridge, tofu workshop, Wenchang Palace, East Rise bridge, echo wall."
+    },
+    {
+     "d": "02",
+     "place": "Jianglangshan",
+     "note": "3-4h loop: Kaiming temple → Huixian rock → Xiake pavilion → One Line Sky → summit."
+    }
+   ],
+   "cost": "2-day pass, buy online",
+   "foot": "3h from Hangzhou by car."
+  },
+  {
+   "slug": "daxinganling-5d",
+   "accent": "#caa14f",
+   "kicker": "GREATER KHINGAN · 5 DAYS",
+   "title": "Hailar → Ergun → Moerdaoga → Manzhouli",
+   "sub": "Autumn gold on a budget, booked late and still cheap.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Hailar → Ergun",
+     "note": "Zhalumude wetland, Moergele river, Ergun wetland (¥75 with bus)."
+    },
+    {
+     "d": "02",
+     "place": "Ergun → Moerdaoga",
+     "note": "Karting across the wetland, reindeer, forest train."
+    },
+    {
+     "d": "03",
+     "place": "Moerdaoga → Shiwei",
+     "note": "Taiping, Shenxian slope, border town. Sleep in Linjiang for the fog."
+    },
+    {
+     "d": "04",
+     "place": "Heishantou",
+     "note": "Horse ride at dusk, yurt, 180° sunset and stars."
+    },
+    {
+     "d": "05",
+     "place": "Manzhouli → Hailar",
+     "note": "Matryoshka square, windmill road, Hulun Lake, back."
+    }
+   ],
+   "cost": "<¥4,000 each · 6 days",
+   "foot": "Morning fog at Linjiang is the whole trip."
+  },
+  {
+   "slug": "zhenjiang-1d",
+   "accent": "#8fae8b",
+   "kicker": "ZHENJIANG · 1 DAY",
+   "title": "Jinshan → Xijindu, on foot",
+   "sub": "A river town with a thousand years and no queue.",
+   "days": [
+    {
+     "d": "AM",
+     "place": "Jinshan Temple",
+     "note": "¥60, 8:00-17:00. The temple that swallowed its own mountain."
+    },
+    {
+     "d": "NOON",
+     "place": "Jingji Road",
+     "note": "Plane trees, Republican facades, old-town lunch."
+    },
+    {
+     "d": "PM",
+     "place": "Museum",
+     "note": "Free, book ahead, closed Mondays. Former consulate building."
+    },
+    {
+     "d": "DUSK",
+     "place": "Xijindu",
+     "note": "Free, open 24h. Stone street, old pagoda, lights on."
+    }
+   ],
+   "cost": "¥60 only · noodles ¥15",
+   "foot": "Pot-cover noodles + vinegar. Non-negotiable."
+  },
+  {
+   "slug": "pujiang-2d",
+   "accent": "#a9a2d0",
+   "kicker": "PUJIANG · 2 DAYS",
+   "title": "Hangzhou → Pujiang → old villages",
+   "sub": "30 minutes by train, a thousand years by foot.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Jiangnan First Family",
+     "note": "Nine archways, Zheng ancestral hall, wood carvings. Then Songxi village."
+    },
+    {
+     "d": "02",
+     "place": "Longde Pagoda → Xinguang",
+     "note": "Song pagoda, forest temple with cats, Ming-Qing courtyard houses."
+    }
+   ],
+   "cost": "Train 30 min from Hangzhou",
+   "foot": "No crowds. That's the point."
+  },
+  {
+   "slug": "qiyun-2d",
+   "accent": "#c96b5a",
+   "kicker": "QIYUN MOUNTAIN · 2 DAYS",
+   "title": "Huangshan's quieter neighbour",
+   "sub": "Red cliffs, carved inscriptions, a village on the edge.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Xiaoyao street",
+     "note": "Arrive, wander, stay for the fish lanterns, fire show, sparks at night."
+    },
+    {
+     "d": "02",
+     "place": "Big loop · 5h",
+     "note": "Cable car → Wangxian tower → Zhenxian cave → Moon Street → Yuxu Palace → summit → down."
+    }
+   ],
+   "cost": "Cable car + entry",
+   "foot": "Short loop exists. The long one is better."
+  },
+  {
+   "slug": "songyang-1d",
+   "accent": "#7f9f77",
+   "kicker": "SONGYANG · 1 DAY",
+   "title": "Yangjiatang → Songzhuang → Chenjiapu",
+   "sub": "Rain makes it better. Three villages, one road.",
+   "days": [
+    {
+     "d": "10:30",
+     "place": "Yangjiatang",
+     "note": "Gold earth walls stacked up the slope. ¥20 for the man and his cow."
+    },
+    {
+     "d": "13:00",
+     "place": "Songzhuang",
+     "note": "Stream through the village, stepping stones, a bowl of noodles."
+    },
+    {
+     "d": "15:30",
+     "place": "Chenjiapu",
+     "note": "Cliff village in the cloud. Bookshop, coffee, nothing to do."
+    }
+   ],
+   "cost": "Free · drive yourself",
+   "foot": "Wear grip. The steps are mossy."
+  },
+  {
+   "slug": "tibet-8d",
+   "accent": "#7ea6c9",
+   "kicker": "TIBET · 8 DAYS SELF-DRIVE",
+   "title": "Lhasa → Everest's east face → Pulan",
+   "sub": "Built from satellite maps, not tour brochures.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Lhasa",
+     "note": "Land, hotel, sleep. Stay near Barkhor."
+    },
+    {
+     "d": "02",
+     "place": "Lhasa",
+     "note": "Jokhang in the morning, Potala in the afternoon. Book ahead. No hair washing."
+    },
+    {
+     "d": "03",
+     "place": "Yamdrok → Kangmar",
+     "note": "Skip the paid viewpoints, stop where locals park. Pumoyong Co, sleep at 4,500m."
+    },
+    {
+     "d": "04",
+     "place": "Chongba → Dinggye",
+     "note": "Chongba Co, then the back road to Duina. Quden Nima glacier: take the high road."
+    },
+    {
+     "d": "05",
+     "place": "Everest east → Gyirong",
+     "note": "Xilin viewpoint, Everest from the east, Pelkut Co, sleep in Gyirong town."
+    },
+    {
+     "d": "06",
+     "place": "Gyirong → Zhongba",
+     "note": "Naxia village at dawn, Gyibu canyon, Nepali lunch, drive on."
+    },
+    {
+     "d": "07",
+     "place": "Manasarovar → Pulan",
+     "note": "Jiwu temple, La'ang Co for Kailash, border market at Pulan."
+    },
+    {
+     "d": "08",
+     "place": "Kailash base → out",
+     "note": "Base camp, canal viewpoint on the 219, start the long way home."
+    }
+   ],
+   "cost": "Guide + permit required",
+   "foot": "Two days to acclimatise. Seriously."
+  },
+  {
+   "slug": "dali-month",
+   "accent": "#c8b48a",
+   "kicker": "DALI · ONE MONTH",
+   "title": "¥2,700 for 30 days",
+   "sub": "Rent first, plans second. The cheap room is found on foot.",
+   "days": [
+    {
+     "d": "RENT",
+     "place": "¥700 / month",
+     "note": "Village self-built room in Fengyangyi: water, wifi, own bathroom. Sunny days make the hot water forgivable."
+    },
+    {
+     "d": "FOOD",
+     "place": "¥900 / month",
+     "note": "Noodles ¥10-20, Bai meals ¥40-50, one big dinner a week. Coffee ¥5 or ¥17, your call."
+    },
+    {
+     "d": "MOVE",
+     "place": "¥300 / month",
+     "note": "Bus on the 214, ¥3 goes far. Taxis ¥10-20 when it rains."
+    },
+    {
+     "d": "FUN",
+     "place": "¥400 / month",
+     "note": "Sunrise, lake loops, seagulls, free evening music. Dali is cheap if you stop buying views."
+    }
+   ],
+   "cost": "¥2,700 total · 30 days",
+   "foot": "Short-let 5 nights, then commit."
+  },
+  {
+   "slug": "europe-9c",
+   "accent": "#8fb4c9",
+   "kicker": "EUROPE · 9 COUNTRIES · 28 DAYS",
+   "title": "Budapest → Athens on ¥15,660",
+   "sub": "Dorms, night buses, one real meal a day.",
+   "days": [
+    {
+     "d": "01-04",
+     "place": "Budapest → Vienna → Prague",
+     "note": "Trains and buses. Buy a 72h transit pass, walk the rest."
+    },
+    {
+     "d": "05-08",
+     "place": "Berlin",
+     "note": "Hostel in Kreuzberg. Museum island one day, nothing the next."
+    },
+    {
+     "d": "09-12",
+     "place": "Rome",
+     "note": "Night bus in, two nights, one long walk, one pizza."
+    },
+    {
+     "d": "13-17",
+     "place": "Barcelona → Madrid",
+     "note": "Book Renfe early or take the bus. Tapas standing up is cheapest."
+    },
+    {
+     "d": "18-21",
+     "place": "Lisbon",
+     "note": "Tram 28 before 9am. Sardines for dinner, €3."
+    },
+    {
+     "d": "22-26",
+     "place": "Athens",
+     "note": "Fly in on a budget carrier. Acropolis at opening time."
+    },
+    {
+     "d": "27-28",
+     "place": "Back to Budapest",
+     "note": "Cheap return flight, one last thermal bath."
+    }
+   ],
+   "cost": "¥2,600 beds · ¥5,423 flights · ¥1,000 trains",
+   "foot": "Pack earplugs. Dorms are loud."
+  },
+  {
+   "slug": "qinggan-9d",
+   "accent": "#d9a05b",
+   "kicker": "QINGHAI-GANSU · 9 DAYS",
+   "title": "Xining to Lanzhou, both ends open",
+   "sub": "~¥5,000. Slightly hard, entirely worth it.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Hangzhou → Xining",
+     "note": "Overnight train. Sleep, wake up at altitude."
+    },
+    {
+     "d": "02",
+     "place": "Xining · Ta'er Monastery",
+     "note": "Acclimatise. Butter lamps and cold air."
+    },
+    {
+     "d": "03",
+     "place": "Qinghai Lake → Chaka",
+     "note": "Erlangjian, then salt flats at sunset. Windproof everything."
+    },
+    {
+     "d": "04",
+     "place": "Golmud → Dunhuang",
+     "note": "Chaidamu salt lakes, Black Lone Mountain, long empty road."
+    },
+    {
+     "d": "05",
+     "place": "Dunhuang west",
+     "note": "Yang Pass, Yumen Pass, Yadan landforms. Bring water, no shade."
+    },
+    {
+     "d": "06",
+     "place": "Mogao → Mingsha",
+     "note": "Caves in the morning, dunes at dusk. Night market after."
+    },
+    {
+     "d": "07",
+     "place": "Zhangye",
+     "note": "Pingshan Lake canyon. Get there early, colours change by noon."
+    },
+    {
+     "d": "08",
+     "place": "Mati Temple → Lanzhou",
+     "note": "Cliff monasteries, then a 3h train. Night market in Lanzhou."
+    },
+    {
+     "d": "09",
+     "place": "Lanzhou → home",
+     "note": "Museum, bridge, beef noodles, plane."
+    }
+   ],
+   "cost": "¥4,079 transport+entry+beds",
+   "foot": "Fuel up early. Stations are far apart."
+  },
+  {
+   "slug": "chuandong-5d",
+   "accent": "#7fa3b8",
+   "kicker": "WESTERN SICHUAN · 5 DAYS",
+   "title": "Chengdu → Siguniang",
+   "sub": "¥2,500 each, no alarms, two shots at a golden summit.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Hangzhou → Chengdu",
+     "note": "Late flight, airport hotel. Pick up the car in the morning."
+    },
+    {
+     "d": "02",
+     "place": "Xinduqiao",
+     "note": "Drive, then Juli Temple ridge for sunset on the peaks."
+    },
+    {
+     "d": "03",
+     "place": "Moon Lake → Zimei ridge",
+     "note": "Forest lake in the morning, another sunset attempt at 4,500m."
+    },
+    {
+     "d": "04",
+     "place": "Tagong → Danba → Siguniang",
+     "note": "Grassland, monastery, then the long valley road."
+    },
+    {
+     "d": "05",
+     "place": "Shuangqiao valley → Chengdu",
+     "note": "One valley, all of western Sichuan's landforms. Then drive back and fly."
+    }
+   ],
+   "cost": "¥2,500 each · SUV ¥898 + full insurance",
+   "foot": "Oxygen in the boot. Sleep below 3,500m."
+  },
+  {
+   "slug": "sichuan-tibet-7d",
+   "accent": "#c9a06a",
+   "kicker": "318 · CHENGDU → LHASA · 7 DAYS",
+   "title": "4,300 km of road and weather",
+   "sub": "¥2,400 for two. ¥1,200 each. Not a holiday.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Chengdu → Yajiang",
+     "note": "430 km. Zheduo Pass is where 318 begins."
+    },
+    {
+     "d": "02",
+     "place": "Yajiang → Batang",
+     "note": "310 km. Eighteen bends, Litang, grassland, twin lakes."
+    },
+    {
+     "d": "03",
+     "place": "Batang → Rumei",
+     "note": "150 km. Cross the Jinsha river, enter Tibet, roads narrow."
+    },
+    {
+     "d": "04",
+     "place": "Rumei → Basu",
+     "note": "310 km. Dongda Pass, 72 turns. A truck closed the road for six hours."
+    },
+    {
+     "d": "05",
+     "place": "Basu → Bomi",
+     "note": "220 km. Ranwu Lake, turquoise and cold."
+    },
+    {
+     "d": "06",
+     "place": "Bomi → Nyingchi",
+     "note": "230 km. Tongmai, Lulang, forest and rain."
+    },
+    {
+     "d": "07",
+     "place": "Nyingchi → Lhasa",
+     "note": "400 km. Arrive at dusk and stop arguing with the trip."
+    }
+   ],
+   "cost": "Fuel ¥1,217 · food ¥592 · beds ¥522",
+   "foot": "Altitude is not negotiable."
+  },
+  {
+   "slug": "zhejiang-4routes",
+   "accent": "#76a9a0",
+   "kicker": "ZHEJIANG · 4 COAST DRIVES",
+   "title": "Four long-weekend routes",
+   "sub": "All free to drive. All with the sea on one side.",
+   "days": [
+    {
+     "d": "168",
+     "place": "Cangnan coast road",
+     "note": "168 km, 9 stops. Chongjia'ao tidal flats, Yandun sea watchtower, Longtai back, Yanting beach, Jinshan town."
+    },
+    {
+     "d": "145",
+     "place": "Xiangshan loop",
+     "note": "Windmill tunnel, Fantong hill, Songlanshan beach, Dongdan village, Shipu old port, Hua'ao island."
+    },
+    {
+     "d": "2D",
+     "place": "Wenling coast",
+     "note": "Day 1 Songmen market, Shuitong'ao, Daken beach. Day 2 sunrise at Shitang, Xiaoruo village colours."
+    },
+    {
+     "d": "60",
+     "place": "Anhui-Zhejiang sky road",
+     "note": "Kantou village, Meiganling terraces, Shangcun, Qingren falls, Yunshan ridge at 1,200m."
+    }
+   ],
+   "cost": "Free · fuel only",
+   "foot": "Go midweek. Every viewpoint is a car park."
+  },
+  {
+   "slug": "wenchang-2d",
+   "accent": "#6fb6c9",
+   "kicker": "HAINAN · WENCHANG · 2 DAYS",
+   "title": "Hainan's best coast road",
+   "sub": "Day 1 windmills and temples, day 2 coconuts and old streets.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Haikou → Mulan Bay",
+     "note": "Windmill coast, Baohu Cape, Moon Bay, Foguang Temple by the sea, Stone Park."
+    },
+    {
+     "d": "02",
+     "place": "Qishui Bay → Wennan",
+     "note": "Dongjiao coconut grove, sea library at Yilong Bay, old arcade streets of Wennan."
+    }
+   ],
+   "cost": "Free except Stone Park",
+   "foot": "Sleep near Qishui Bay. Book early."
+  },
+  {
+   "slug": "hangzhou-night",
+   "accent": "#b48fc9",
+   "kicker": "HANGZHOU · AFTER WORK",
+   "title": "Five night walks, 6pm to 10pm",
+   "sub": "Eat first. Then one of these. No taxis required.",
+   "days": [
+    {
+     "d": "1",
+     "place": "West Lake north",
+     "note": "Broken Bridge → Beishan Road → Gushan Road → Baidi. 3 km, plane trees, boat lights."
+    },
+    {
+     "d": "2",
+     "place": "The canal",
+     "note": "Dadou Road → Xiaohe park → Xiaohe old street. Stone slabs, cargo barges, warm lamps."
+    },
+    {
+     "d": "3",
+     "place": "City balcony",
+     "note": "Light show 19:30 and 20:30, then walk the embankment west. Crowd thins after 21:00."
+    },
+    {
+     "d": "4",
+     "place": "Lake loop by bike",
+     "note": "10 km, 1-1.5h on a shared bike. Beishan tunnel of trees, Yanggong causeway."
+    },
+    {
+     "d": "5",
+     "place": "Hefang Street",
+     "note": "Southern Song imperial street → Hefang → Drum Tower. Snacks, lanterns, old shops."
+    }
+   ],
+   "cost": "Free · ¥1.5 bike",
+   "foot": "Skip Hefang on weekends. Genuinely."
+  },
+  {
+   "slug": "nanjing-3d",
+   "accent": "#d08a72",
+   "kicker": "NANJING · 3 DAYS",
+   "title": "Three days, zero wasted walks",
+   "sub": "Sun Yat-sen, a temple, a wall, a museum, and a lot of duck.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Purple Mountain",
+     "note": "Wutong avenue → Meiling Palace → music stage → Sun Yat-sen mausoleum → Confucius Temple at night."
+    },
+    {
+     "d": "02",
+     "place": "City wall day",
+     "note": "Jiming Temple → Taicheng wall → Xuanwu Lake → Avant-garde bookstore → Xinjiekou."
+    },
+    {
+     "d": "03",
+     "place": "Museum day",
+     "note": "Nanjing Museum → Presidential Palace → Six Dynasties Museum → memorial → Kexiang for food."
+    }
+   ],
+   "cost": "Most sites free · book museum",
+   "foot": "Do not skip Kexiang. Do skip the tourist duck."
+  },
+  {
+   "slug": "chuanzang-10d",
+   "accent": "#7d9ec4",
+   "kicker": "318 · CHENGDU → LHASA · 10 DAYS",
+   "title": "The south line, done properly",
+   "sub": "434 instead of 318 on day two. Oxygen in the car.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Chengdu → Kangding",
+     "note": "Pick up the car at Shuangliu, Luding bridge on the way. Sleep low."
+    },
+    {
+     "d": "02",
+     "place": "Kangding → Xinduqiao",
+     "note": "Take the 434. Yuzixi or Moshi park, one of them, not both."
+    },
+    {
+     "d": "03",
+     "place": "Xinduqiao → Daocheng",
+     "note": "9-10h. Eighteen bends, Wuliang river, Hare mountain. Cash for toilets."
+    },
+    {
+     "d": "04",
+     "place": "Daocheng Yading",
+     "note": "One hour bus to the trailhead. Motion sickness pills for the way back."
+    },
+    {
+     "d": "05",
+     "place": "Daocheng → Batang",
+     "note": "Twin lakes. Batang is small, Tibetan, worth an evening."
+    },
+    {
+     "d": "06",
+     "place": "Batang → Basu",
+     "note": "11h. Enter Tibet, Dongda Pass, 72 turns. Leave early."
+    },
+    {
+     "d": "07",
+     "place": "Basu → Bomi",
+     "note": "Ranwu Lake. Then subtropical forest and oxygen you can breathe."
+    },
+    {
+     "d": "08",
+     "place": "Bomi → Nyingchi",
+     "note": "Lulang stone-pot chicken. Namcha Barwa if the sky opens."
+    },
+    {
+     "d": "09",
+     "place": "Nyingchi → Lhasa",
+     "note": "4h. Museum in the afternoon, Barkhor at dusk."
+    },
+    {
+     "d": "10",
+     "place": "Lhasa",
+     "note": "Potala morning, Jokhang afternoon, souvenirs at Barkhor mall."
+    }
+   ],
+   "cost": "Entry ¥80 + bus ¥70 at Siguniang",
+   "foot": "Book cancellable hotels. Weather wins."
+  },
+  {
+   "slug": "yili-8d",
+   "accent": "#9ab87a",
+   "kicker": "XINJIANG · ILI LOOP · 8 DAYS",
+   "title": "Yining → Sayram → Kanas",
+   "sub": "¥3,200 each. Rent the car, skip the tour.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Yining",
+     "note": "Fly in, stay on Six Star Street. Police at every corner, walkable at night."
+    },
+    {
+     "d": "02",
+     "place": "Sayram Lake",
+     "note": "2-3h drive. Ticket valid 24h. Loop once, sleep at the east gate."
+    },
+    {
+     "d": "03",
+     "place": "Sayram → Kuytun",
+     "note": "Sunrise at Dianjiangtai around 8:20 in winter. Then 3.5h east."
+    },
+    {
+     "d": "04",
+     "place": "Urho ghost city → Burqin",
+     "note": "5-6h. Park outside, take the little train. Two hours is plenty."
+    },
+    {
+     "d": "05",
+     "place": "Baihaba",
+     "note": "4h with livestock on the road. Border permit on the way. Wooden cabin facing the snow."
+    },
+    {
+     "d": "06",
+     "place": "Kanas",
+     "note": "Shuttle from Baihaba, 1h. Only worth it in good weather."
+    },
+    {
+     "d": "07",
+     "place": "Baihaba → Altay",
+     "note": "Morning fog, walk to the old village for breakfast, drive out slowly."
+    },
+    {
+     "d": "08",
+     "place": "Altay → home",
+     "note": "Fly out. Total ¥3,200 each without flights."
+    }
+   ],
+   "cost": "¥3,200 each · car + fuel",
+   "foot": "Check the weather daily. Ili punishes optimists."
+  },
+  {
+   "slug": "xiangshan-coast",
+   "accent": "#5fa8bd",
+   "kicker": "NINGBO · 145 KM · 9 STOPS",
+   "title": "Xiangshan coast loop",
+   "sub": "Windmills, fishing ports, volcanic rock. One tank of fuel.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Changsha tunnel",
+     "note": "800 m of windmill road, the sea at the end of it."
+    },
+    {
+     "d": "02",
+     "place": "Fantong hill",
+     "note": "Grass, cows, sea sunrise. Zhejiang's little Sayram."
+    },
+    {
+     "d": "03",
+     "place": "Songlan beach",
+     "note": "Half mountain, half sea, fine sand."
+    },
+    {
+     "d": "04",
+     "place": "Dongdan village",
+     "note": "Green, damp, slightly forgotten. Walk it slowly."
+    },
+    {
+     "d": "05",
+     "place": "Shipu film town",
+     "note": "Where half the period dramas are shot. Skip unless curious."
+    },
+    {
+     "d": "06",
+     "place": "Half-Mountain",
+     "note": "A crescent bay under a cut-away hill. Low tide only."
+    },
+    {
+     "d": "07",
+     "place": "Shipu old port",
+     "note": "600 years old. Free after 5pm. Fish smells honest."
+    },
+    {
+     "d": "08",
+     "place": "Hepu beach",
+     "note": "Ferry across, then the biggest sand in the bay."
+    },
+    {
+     "d": "09",
+     "place": "Hua'ao island",
+     "note": "120 million year old volcanic columns and salt pans."
+    }
+   ],
+   "cost": "Ferry ¥20-40 · most stops free",
+   "foot": "Two days. One is too rushed."
+  },
+  {
+   "slug": "beijiang-8d",
+   "accent": "#8aa9c4",
+   "kicker": "NORTHERN XINJIANG · 8 DAYS",
+   "title": "Yining → Sayram → Kanas",
+   "sub": "Two women, no 6am starts, never more than 5h driving.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Shanghai → Yining",
+     "note": "5h flight. Six Star Street, walkable, police on every corner."
+    },
+    {
+     "d": "02",
+     "place": "Sayram Lake",
+     "note": "2-3h drive. Ticket valid 24h. Loop once, sleep at the east gate."
+    },
+    {
+     "d": "03",
+     "place": "Sayram → Kuytun",
+     "note": "Sunrise at Dianjiangtai, around 8:20. Then 3.5h east."
+    },
+    {
+     "d": "04",
+     "place": "Urho → Burqin",
+     "note": "Ghost city by little train, 5-6h total. Sleep in Burqin."
+    },
+    {
+     "d": "05",
+     "place": "Baihaba",
+     "note": "4h with livestock on the road. Border permit en route. Cabin facing snow."
+    },
+    {
+     "d": "06",
+     "place": "Kanas",
+     "note": "Shuttle 1h. Only in good weather. Rain ruins it."
+    },
+    {
+     "d": "07",
+     "place": "Baihaba → Altay",
+     "note": "Morning fog, breakfast in the old village, slow drive out."
+    }
+   ],
+   "cost": "¥3,200 each without flights",
+   "foot": "Check weather daily. Ili punishes optimists."
+  },
+  {
+   "slug": "china-13routes",
+   "accent": "#c49a5f",
+   "kicker": "CHINA · 13 HOLIDAY ROUTES",
+   "title": "Pick by days, not by photos",
+   "sub": "From hardcore gravel to lying on a beach.",
+   "days": [
+    {
+     "d": "7D",
+     "place": "Guoluo · SW Yunnan · Shannan",
+     "note": "High plateau wildlife, hot springs and border towns, Himalayan monasteries."
+    },
+    {
+     "d": "8D",
+     "place": "Gannan · Hulunbuir · Ili",
+     "note": "Longest prayer corridor, autumn grassland, spruce forests and horse herds."
+    },
+    {
+     "d": "7D",
+     "place": "G315 · G109",
+     "note": "China's loneliest road through Chaidamu; the highest road over Kekexili."
+    },
+    {
+     "d": "10D",
+     "place": "Yunnan-Tibet · Hainan",
+     "note": "Hengduan mountains to Lhasa; surf, salt fields and rockets on one island."
+    },
+    {
+     "d": "3D",
+     "place": "Southern Anhui",
+     "note": "120 km, all the drama of 318 with none of the altitude."
+    },
+    {
+     "d": "2D",
+     "place": "Lixiao road · Weihai",
+     "note": "94 km from 2,000m to 3,600m; or 1,000 km of Shandong coast."
+    }
+   ],
+   "cost": "Fuel + tolls · ¥0-300 entry",
+   "foot": "Book beds before the holiday, not during."
+  },
+  {
+   "slug": "japan-30d",
+   "accent": "#c98f9a",
+   "kicker": "JAPAN · 30 DAYS · ¥24,874",
+   "title": "Where the money went",
+   "sub": "632,353 steps. ¥777 a day. No dorms, no regrets.",
+   "days": [
+    {
+     "d": "33%",
+     "place": "Beds · ¥8,149",
+     "note": "Business hotels near stations, about ¥255 a night. Cheap, clean, breakfast included."
+    },
+    {
+     "d": "31%",
+     "place": "Transport · ¥7,763",
+     "note": "JR Hokuriku arch pass + San'in pass ¥2,485, flights ¥1,925, the rest buses and metros."
+    },
+    {
+     "d": "18%",
+     "place": "Food · ¥4,418",
+     "note": "¥138 a day: university canteens, supermarkets, gyudon, one proper meal a week."
+    },
+    {
+     "d": "11%",
+     "place": "Shopping · ¥2,798",
+     "note": "Fridge magnets, souvenirs, a suitcase, a SIM. Nothing impulsive."
+    },
+    {
+     "d": "6%",
+     "place": "Entry · ¥1,572",
+     "note": "USJ, drift ice cruise, onsens, cable cars."
+    }
+   ],
+   "cost": "Sapporo → Tokyo → Kansai → Kyushu",
+   "foot": "Thirty days is the sweet spot on a 3-year visa."
+  },
+  {
+   "slug": "pingtan-3d",
+   "accent": "#6fb6c9",
+   "kicker": "PINGTAN · 3 DAYS · FUJIAN",
+   "title": "Windmills, S-bends, empty sand",
+   "sub": "High-speed rail to Pingtan station, then a car.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Jingsha → Changjiang'ao",
+     "note": "Jingsha at low tide (check the tide table), then sunset on the big beach."
+    },
+    {
+     "d": "02",
+     "place": "North line",
+     "note": "Tanshui swing, ecological corridor windmills, the S-bend, Maotouqian, Heping village at dusk."
+    },
+    {
+     "d": "03",
+     "place": "Sunrise → Tannan Bay",
+     "note": "Watch the sun from bed, then shells and sand before the train home."
+    }
+   ],
+   "cost": "Car ¥200/day · most spots free",
+   "foot": "North line early. Everyone has the same idea by 10am."
+  },
+  {
+   "slug": "41cities-115d",
+   "accent": "#8fae8b",
+   "kicker": "115 DAYS · 41 CITIES · ¥20,000",
+   "title": "The rules that made it work",
+   "sub": "No taxis. No hotels. One bag.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Southwest",
+     "note": "Chongqing → Guiyang → Yangshuo → Guilin → Liuzhou → Nanning → Beihai."
+    },
+    {
+     "d": "02",
+     "place": "Coast",
+     "note": "Guangzhou → Shunde → Shantou → Nan'ao → Dongshan → Xiamen → Quanzhou → Pingtan → Fuzhou."
+    },
+    {
+     "d": "03",
+     "place": "East",
+     "note": "Wenzhou → Shaoxing → Hangzhou → Wuzhen → Nanxun → Xitang → Suzhou → Nanjing."
+    },
+    {
+     "d": "04",
+     "place": "North",
+     "note": "Qingdao → Weihai → Yantai → Jinan → Tai'an → Tianjin → Beijing → Datong."
+    },
+    {
+     "d": "05",
+     "place": "West",
+     "note": "Hohhot → Ulanqab → Yinchuan → Zhongwei → Lanzhou → Chengdu → Jiuzhaigou → Chongqing."
+    }
+   ],
+   "cost": "¥174 a day · hostel beds ¥40-60",
+   "foot": "Book the hostel, not the itinerary."
+  },
+  {
+   "slug": "zhuge-1d",
+   "accent": "#b09a6a",
+   "kicker": "LANXI · 1 DAY",
+   "title": "A village built as a diagram",
+   "sub": "700 years old, nine palaces and eight trigrams.",
+   "days": [
+    {
+     "d": "AM",
+     "place": "Youbu old town",
+     "note": "Breakfast first: egg pancake, meat dumpling, salty soy milk."
+    },
+    {
+     "d": "NOON",
+     "place": "Zhong Pond",
+     "note": "The yin-yang eye of the layout. Half well, half land."
+    },
+    {
+     "d": "PM",
+     "place": "Ancestral hall → Tiantang",
+     "note": "Fat beams, carved brackets. Then the hilltop for the whole village."
+    },
+    {
+     "d": "6:30",
+     "place": "Lanterns",
+     "note": "Fish lanterns, Kongming lights, NPC skits in the lanes."
+    }
+   ],
+   "cost": "Entry ¥80-100 · breakfast ¥15",
+   "foot": "1h from Jinhua station by car."
+  },
+  {
+   "slug": "jiande-2d",
+   "accent": "#8fa6b8",
+   "kicker": "JIANDE · 2 DAYS · 1H FROM HANGZHOU",
+   "title": "Cliff temple and river town",
+   "sub": "Shouchang, Lingqi cave, Yanzhou, Daci Rock.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Shouchang old town",
+     "note": "Lunch, then Lingqi cave. Stalagmites lit like a film set. 2h."
+    },
+    {
+     "d": "02",
+     "place": "Yanzhou ancient city",
+     "note": "River wall, old gates, a hotel inside the old town."
+    },
+    {
+     "d": "03",
+     "place": "Daci Rock",
+     "note": "Temple half built into the cliff. Cable car up, alpine slide down."
+    }
+   ],
+   "cost": "Cable car ¥50 · cave ¥80",
+   "foot": "Go early. The cliff walkway queues."
+  },
+  {
+   "slug": "tibet-6d",
+   "accent": "#7fa3c9",
+   "kicker": "TIBET · 6 DAYS · SMALL LOOP",
+   "title": "Lhasa → Nyima → Bangoin",
+   "sub": "Two oxygen tanks. One 9.5-hour day.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Lhasa → Yamdrok → Shigatse",
+     "note": "Skip paid viewpoints, stop where locals park."
+    },
+    {
+     "d": "02",
+     "place": "Shigatse → Tingri",
+     "note": "Ten Thousand Dunes, Everest monument, Guandi temple."
+    },
+    {
+     "d": "03",
+     "place": "Tingri → Saga",
+     "note": "Pelkut Co with Shishapangma behind it."
+    },
+    {
+     "d": "04",
+     "place": "Saga → Nyima",
+     "note": "9.5h. Zari Namtso, Tangra Yumco. The long day."
+    },
+    {
+     "d": "05",
+     "place": "Nyima → Bangoin",
+     "note": "Selin Co, the biggest lake in Tibet. 3.5h."
+    }
+   ],
+   "cost": "Guide + permit · oxygen ¥200/tank",
+   "foot": "Sleep below 4,200m where you can."
+  },
+  {
+   "slug": "yangzhou-2d",
+   "accent": "#9aa87a",
+   "kicker": "YANGZHOU · 2 DAYS",
+   "title": "Gardens, alleys, breakfast",
+   "sub": "Small city, short distances, slow mornings.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Dongguan street",
+     "note": "Old shops, then Ge Garden. Bamboo, rockeries, four seasons in one courtyard."
+    },
+    {
+     "d": "02",
+     "place": "Pishi street",
+     "note": "Bookshops, the big YANGZHOU wall, Zhu Ziqing's house down a lane."
+    },
+    {
+     "d": "03",
+     "place": "Old salt district",
+     "note": "Restored merchant courtyards, coffee in a 200-year-old hall."
+    },
+    {
+     "d": "04",
+     "place": "He Garden at night",
+     "note": "The performance is worth it. Sit near the water."
+    }
+   ],
+   "cost": "¥45 Ge Garden · ¥80 He Garden",
+   "foot": "Eat breakfast twice. It's that good."
+  },
+  {
+   "slug": "qinggan-8d",
+   "accent": "#d8a45e",
+   "kicker": "QINGHAI-GANSU · 8 DAYS",
+   "title": "Xining to Lanzhou, ¥2,900",
+   "sub": "Free viewpoints over paid ones.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Xining",
+     "note": "Rest. Altitude first, sightseeing second."
+    },
+    {
+     "d": "02",
+     "place": "Qinghai Lake → Chaka",
+     "note": "South hill viewpoint free. Chaka at the last stop, not the first."
+    },
+    {
+     "d": "03",
+     "place": "Chaidamu",
+     "note": "Salt lake, water Yadan, U-shaped road from the verge."
+    },
+    {
+     "d": "04",
+     "place": "Da Qaidam → Dunhuang",
+     "note": "Emerald Lake gate 2, Black Lone Mountain, long drive."
+    },
+    {
+     "d": "05",
+     "place": "Dunhuang",
+     "note": "Mogao with an A ticket. Dunes at 4:30pm."
+    },
+    {
+     "d": "06",
+     "place": "Zhangye",
+     "note": "Danxia north gate, platform 4 before sunset."
+    },
+    {
+     "d": "07",
+     "place": "Qilian",
+     "note": "Grassland, Gangshika snow, back to Xining."
+    },
+    {
+     "d": "08",
+     "place": "Lanzhou",
+     "note": "Noodles, museum, flight."
+    }
+   ],
+   "cost": "¥2,900 each · car + fuel + beds",
+   "foot": "Book Mogao 30 days ahead."
+  },
+  {
+   "slug": "sanxia-2d",
+   "accent": "#6f9bb0",
+   "kicker": "THREE GORGES · 1 WEEKEND",
+   "title": "Fly Friday, hike Saturday",
+   "sub": "¥1,000. Brutal and worth it.",
+   "days": [
+    {
+     "d": "FRI",
+     "place": "Changzhou → Chongqing",
+     "note": "21:00 flight, airport hotel. Sleep 5 hours."
+    },
+    {
+     "d": "SAT",
+     "place": "Fengjie summit",
+     "note": "6am train, 8am bus, 2h on the ridge, boat to Wushan at 13:20."
+    },
+    {
+     "d": "SAT",
+     "place": "Wushan night climb",
+     "note": "Dragon ridge by headtorch, 2h up. Sleep on the mountain."
+    },
+    {
+     "d": "SUN",
+     "place": "Sunrise → home",
+     "note": "Cloud sea over the gorge, then the long way back."
+    }
+   ],
+   "cost": "~¥1,000 all in",
+   "foot": "Head torch. Real shoes."
+  },
+  {
+   "slug": "yili-low-8d",
+   "accent": "#9ab87a",
+   "kicker": "ILI · 8 DAYS · LOW ENERGY",
+   "title": "Never more than 3h driving",
+   "sub": "One driver. No alarms. Good beds.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Yining",
+     "note": "Fly in, Six Star Street, supermarket snacks."
+    },
+    {
+     "d": "02",
+     "place": "Sayram Lake",
+     "note": "2h drive, loop once, sleep at the east gate."
+    },
+    {
+     "d": "03",
+     "place": "Zhaosu",
+     "note": "4.5h via G219. Or the Yizhao road if the weather is kind."
+    },
+    {
+     "d": "04",
+     "place": "Xiata → Tekes",
+     "note": "Xiata in the morning, 20 km on foot, then 2.5h."
+    },
+    {
+     "d": "05",
+     "place": "Kalajun → Qiaxi",
+     "note": "40 min then 2.5h. Grassland gradient all day."
+    },
+    {
+     "d": "06",
+     "place": "Qiaxi → Nalati",
+     "note": "3h. Valley walk in the morning, drive after lunch."
+    },
+    {
+     "d": "07",
+     "place": "Nalati",
+     "note": "No driving. Sunset on the grass. Photo day."
+    }
+   ],
+   "cost": "¥3,500 each · car + beds",
+   "foot": "Book Sayram and Nalati early."
+  },
+  {
+   "slug": "georgia-17d",
+   "accent": "#c98d6a",
+   "kicker": "GEORGIA · 17 DAYS · ¥4,672",
+   "title": "Land border in, land border out",
+   "sub": "Marshrutkas, guesthouses, bread and cheese.",
+   "days": [
+    {
+     "d": "BEDS",
+     "place": "¥1,063",
+     "note": "Guesthouses and five nights camping. About ¥63 a night."
+    },
+    {
+     "d": "MOVE",
+     "place": "¥761",
+     "note": "Shared taxis and minibuses. Tbilisi to Yerevan ¥30."
+    },
+    {
+     "d": "FOOD",
+     "place": "¥2,154",
+     "note": "Eating out twice a day. Khachapuri is not cheap when it's every meal."
+    },
+    {
+     "d": "GEAR",
+     "place": "¥694",
+     "note": "Tent, mat, wine. The tent paid for itself in five nights."
+    }
+   ],
+   "cost": "No flights · overland entry",
+   "foot": "Carry cash outside the big cities."
+  },
+  {
+   "slug": "xibei-8d",
+   "accent": "#cf9a63",
+   "kicker": "NORTHWEST · 8 DAYS",
+   "title": "Xining → Dunhuang → Xining",
+   "sub": "A different colour every day.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Zhengzhou → Xining",
+     "note": "City hotel. Sleep early."
+    },
+    {
+     "d": "02",
+     "place": "Qilian → Zhangye",
+     "note": "Gangshika snow, Qilian grassland, Danxia at dusk."
+    },
+    {
+     "d": "03",
+     "place": "Jiayuguan → Yumen",
+     "note": "Desert poplar forest, fortress from the road."
+    },
+    {
+     "d": "04",
+     "place": "Dunhuang",
+     "note": "Earth's Son sculpture, Mingsha dunes, Crescent Lake."
+    },
+    {
+     "d": "05",
+     "place": "Mogao → Lenghu",
+     "note": "Caves early, Black Lone Mountain, sleep at Lenghu."
+    },
+    {
+     "d": "06",
+     "place": "Water Yadan → Delingha",
+     "note": "Yadan at noon, U-shaped road, 227 km after."
+    },
+    {
+     "d": "07",
+     "place": "Chaka → Xining",
+     "note": "Salt lake early, 300 km back."
+    }
+   ],
+   "cost": "Fuel + entry · ~¥3,500",
+   "foot": "One day, one colour. Don't rush it."
+  },
+  {
+   "slug": "s101-danxia",
+   "accent": "#c9655a",
+   "kicker": "XINJIANG · S101 · 1 DAY",
+   "title": "360 km, free, empty",
+   "sub": "Five segments or the app puts you on the highway.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Urumqi → Sulfur Gully",
+     "note": "60 km. Red and orange rock layers, roadside pull-offs."
+    },
+    {
+     "d": "02",
+     "place": "Hundred-mile Danxia",
+     "note": "35 km. Jiangshan Duojiao viewpoint first. Free."
+    },
+    {
+     "d": "03",
+     "place": "Kensiwate reservoir",
+     "note": "45 km. Turquoise water against red cliffs. Drone spot."
+    },
+    {
+     "d": "04",
+     "place": "Dushanzi canyon",
+     "note": "120 km. Best light after 6pm. Closes 21:30."
+    },
+    {
+     "d": "05",
+     "place": "Kuitun",
+     "note": "30 km. Sleep, fuel, tomorrow Sayram."
+    }
+   ],
+   "cost": "Free road · canyon ¥40",
+   "foot": "Navigate segment by segment."
+  },
+  {
+   "slug": "chuanxi-5d",
+   "accent": "#7fa3b8",
+   "kicker": "WESTERN SICHUAN · 5 DAYS",
+   "title": "Small loop, no backtracking",
+   "sub": "Chengdu → Danba → Tagong → Kangding.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Chengdu → Wenchuan",
+     "note": "Pick up the car, drive the valley, sleep low."
+    },
+    {
+     "d": "02",
+     "place": "Danba",
+     "note": "Tibetan towers, river gorge, 2,000m."
+    },
+    {
+     "d": "03",
+     "place": "Tagong grassland",
+     "note": "Yala snow mountain, monastery, yak butter tea."
+    },
+    {
+     "d": "04",
+     "place": "Xinduqiao",
+     "note": "Photo heaven. Poplar, river, horses."
+    },
+    {
+     "d": "05",
+     "place": "Kangding → Chengdu",
+     "note": "Zheduo Pass early, then home."
+    }
+   ],
+   "cost": "¥2,000 each · car + beds",
+   "foot": "Altitude gains are gentle. Still drink water."
+  },
+  {
+   "slug": "dianxi-5d",
+   "accent": "#7aa88f",
+   "kicker": "WEST YUNNAN · 5 DAYS",
+   "title": "Mangshi → Ruili → Tengchong",
+   "sub": "Border markets, hot springs, Dai food.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Mangshi → Ruili",
+     "note": "1.5h. One Village Two Countries, Jiegao gate."
+    },
+    {
+     "d": "02",
+     "place": "Ruili → Tengchong",
+     "note": "Dai palace, tropical forest, 2h drive. Hot sea at night."
+    },
+    {
+     "d": "03",
+     "place": "Tengchong",
+     "note": "Qiluo old town, volcano park. Best lane for souvenirs."
+    },
+    {
+     "d": "04",
+     "place": "Tengchong → Mangshi",
+     "note": "1.5h. Golden pagoda at 4pm, silver pagoda at sunset."
+    },
+    {
+     "d": "05",
+     "place": "Mangshi",
+     "note": "Market, noodles, temple, flight out."
+    }
+   ],
+   "cost": "Car ¥251/3 days · tolls ¥193",
+   "foot": "Skip the roadside jade shops."
+  },
+  {
+   "slug": "sapu-6d",
+   "accent": "#8fa8c4",
+   "kicker": "LHASA → SAPU · 6 DAYS",
+   "title": "High, cold, very quiet",
+   "sub": "Sleep at 3,900m, not 4,700m.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Lhasa → Shigatse",
+     "note": "Yamdrok south line, Karola glacier. 5.5h."
+    },
+    {
+     "d": "02",
+     "place": "Shigatse → Bangoin",
+     "note": "Selin Co viewpoint, 3h. 4,700m, oxygen hotel."
+    },
+    {
+     "d": "03",
+     "place": "Bangoin → Biru",
+     "note": "Via Nagqu. Stock up, no big towns after."
+    },
+    {
+     "d": "04",
+     "place": "Biru → Sapu",
+     "note": "2h. Inner-lake guesthouse, butter tea, thin air."
+    },
+    {
+     "d": "05",
+     "place": "Sapu → Nagqu",
+     "note": "6h back. Or retreat to Biru if altitude bites."
+    },
+    {
+     "d": "06",
+     "place": "Nagqu → Namtso → Lhasa",
+     "note": "7.5h on G349. Drop the car, walk Barkhor."
+    }
+   ],
+   "cost": "Car + oxygen · guide required",
+   "foot": "87 km/h got me a fine. Watch the cameras."
+  },
+  {
+   "slug": "china-ring",
+   "accent": "#c9a45e",
+   "kicker": "CHINA · 30,000 KM · 3 ROADS",
+   "title": "G219 + G331 + G228",
+   "sub": "Start and finish at Dongxing. 80-120 days.",
+   "days": [
+    {
+     "d": "G219",
+     "place": "Dongxing → Kanas",
+     "note": "10,065 km. Guangxi, Yunnan, Tibet, Xinjiang. The hardest and the best."
+    },
+    {
+     "d": "G331",
+     "place": "Kanas → Dandong",
+     "note": "9,300 km. Altai, Hulunbuir, Mohe, Changbai. Autumn is the season."
+    },
+    {
+     "d": "G228",
+     "place": "Dandong → Dongxing",
+     "note": "7,800 km. Four seas, every fishing port, the whole coast."
+    }
+   ],
+   "cost": "Fuel ~¥17,000 · 60 fill-ups",
+   "foot": "Permits for Xinjiang, Tibet, Yunnan borders."
+  },
+  {
+   "slug": "poyang-1d",
+   "accent": "#8fae8b",
+   "kicker": "POYANG LAKE · 1 DAY",
+   "title": "Nanchang → lake → rice fields",
+   "sub": "No entrance fee. Bring a car.",
+   "days": [
+    {
+     "d": "10:00",
+     "place": "Neiqing village",
+     "note": "A lake island with a car park. Blue water when the weather behaves."
+    },
+    {
+     "d": "13:00",
+     "place": "Chuan Kuijia",
+     "note": "Grassland this way. Green as a cartoon, empty as a Monday."
+    },
+    {
+     "d": "16:30",
+     "place": "Wuxing farm",
+     "note": "Camphor avenue, golden rice, sunset. Stay until the light goes."
+    }
+   ],
+   "cost": "Free · fuel only",
+   "foot": "Check water levels before you go."
+  },
+  {
+   "slug": "zhejiang-8routes",
+   "accent": "#76a9a0",
+   "kicker": "ZHEJIANG · 8 DRIVES",
+   "title": "One year of weekend routes",
+   "sub": "Bamboo, canyons, coast, sky roads.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Anji · Moganshan",
+     "note": "Bamboo forest, guesthouses, coffee. Busy on weekends."
+    },
+    {
+     "d": "02",
+     "place": "Huzhou river line",
+     "note": "Shallow water, old villages, almost no cars."
+    },
+    {
+     "d": "03",
+     "place": "Lin'an canyon",
+     "note": "Free, no ticket, gorge and stream the whole way."
+    },
+    {
+     "d": "04",
+     "place": "Hangzhou loop",
+     "note": "Flat, shallow, kid-safe. Free."
+    },
+    {
+     "d": "05",
+     "place": "Ningbo cloud road",
+     "note": "Sea of clouds at the top, East China Sea below."
+    },
+    {
+     "d": "06",
+     "place": "Ninghai coast",
+     "note": "Mountain on one side, sea on the other, empty tarmac."
+    },
+    {
+     "d": "07",
+     "place": "Xianju waterfalls",
+     "note": "Mountain driving and swimming holes in the same afternoon."
+    },
+    {
+     "d": "08",
+     "place": "Suichang sky road",
+     "note": "Highest paved road in Zhejiang. Free terraces."
+    }
+   ],
+   "cost": "Most routes free · fuel only",
+   "foot": "Midweek, always midweek."
+  },
+  {
+   "slug": "anji-day",
+   "accent": "#8fb46a",
+   "kicker": "ANJI · HALF A DAY",
+   "title": "Free meadow, free parking",
+   "sub": "One hour from Hangzhou. Dogs allowed.",
+   "days": [
+    {
+     "d": "15:00",
+     "place": "Arrive",
+     "note": "Ancient city ruins park. No gate, no ticket, no queue."
+    },
+    {
+     "d": "16:00",
+     "place": "Set up",
+     "note": "Mat, book, thermos. Sunset around 18:30 in autumn."
+    },
+    {
+     "d": "19:00",
+     "place": "Stay",
+     "note": "Stars if the sky is clear, silence if it isn't."
+    }
+   ],
+   "cost": "Free entry · free parking",
+   "foot": "Bring mosquito repellent. Really."
+  },
+  {
+   "slug": "yixing-2d",
+   "accent": "#c9a06a",
+   "kicker": "YIXING · 2 DAYS",
+   "title": "Kiln town and bamboo train",
+   "sub": "2h from Hangzhou by car.",
+   "days": [
+    {
+     "d": "01",
+     "place": "Cloud train",
+     "note": "Through bamboo and tea fields. Slow on purpose."
+    },
+    {
+     "d": "02",
+     "place": "Longyao street",
+     "note": "Pottery workshops, kiln museums, one good coffee."
+    },
+    {
+     "d": "03",
+     "place": "Birds at dusk",
+     "note": "258 raptors circling. Sit down and stop talking."
+    },
+    {
+     "d": "04",
+     "place": "Water-and-fire show",
+     "note": "20:00. Get there 20 minutes early for the front."
+    }
+   ],
+   "cost": "Entry ¥80-120 · train extra",
+   "foot": "Sleep at the kiln hotel."
+  }
+ ]
+}

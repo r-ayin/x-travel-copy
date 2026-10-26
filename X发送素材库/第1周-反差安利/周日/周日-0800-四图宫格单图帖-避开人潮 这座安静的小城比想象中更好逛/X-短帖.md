@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-31（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Zhenjiang in one day on foot: Jinshan Temple → Jingji Road → Guangzhao Guild Hall → the museum → Xijindu.

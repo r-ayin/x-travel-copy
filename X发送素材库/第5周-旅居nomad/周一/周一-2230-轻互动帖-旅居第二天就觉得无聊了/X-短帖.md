@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-22（周一）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Day two of living somewhere new and I'm already bored. Turns out a change of scenery doesn't come with a schedule.

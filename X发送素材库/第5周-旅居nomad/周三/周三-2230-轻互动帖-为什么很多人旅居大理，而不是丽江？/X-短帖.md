@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-24（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Everyone moves to Dali and almost nobody moves to Lijiang. Same province, similar weather.

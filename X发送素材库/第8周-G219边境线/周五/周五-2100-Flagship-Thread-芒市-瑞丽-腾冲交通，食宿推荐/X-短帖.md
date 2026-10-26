@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-17（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Western Yunnan in 5 days: Mangshi → Ruili → Tengchong → Mangshi. No high-speed rail, so rent a car.

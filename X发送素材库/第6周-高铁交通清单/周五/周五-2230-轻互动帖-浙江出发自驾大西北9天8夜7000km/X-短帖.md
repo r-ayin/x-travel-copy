@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-03（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Jiaxing to Qinghai and back, 9 days, 7,000 km, one electric car: ¥1,500 tolls, ¥1,500 charging, four charging stops a day.

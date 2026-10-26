@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-15（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Someone drove 15,000 km of the 27,198 km border in an EV, converted it into a mobile gaming room, and spent ¥5,600 on charging.

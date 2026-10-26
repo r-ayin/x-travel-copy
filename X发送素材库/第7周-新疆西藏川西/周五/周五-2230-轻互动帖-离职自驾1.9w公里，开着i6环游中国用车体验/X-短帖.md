@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-10（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 103 days, 19,000 km, one electric car, Shanghai to Xinjiang along G219. Sleeping in the back most nights, a hotel every few days.

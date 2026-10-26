@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-26（周二）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 How to actually reach Nanji Island: train to Pingyang → 15 min taxi to Aojiang pier → 2h ferry (¥130-160) → ¥45 island bus pass.

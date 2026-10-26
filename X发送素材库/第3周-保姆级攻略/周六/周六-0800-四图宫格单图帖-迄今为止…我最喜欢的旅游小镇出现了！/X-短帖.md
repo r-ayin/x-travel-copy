@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-13（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Yixing's kiln town, seen properly this time: birds at dusk, a fire-and-water show at 8, pottery streets, and a valley that looks like a Monet painting in May.

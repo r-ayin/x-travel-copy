@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-08（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Thirty, quit, Kunming, ¥1,300 a month, and a window with a hill and a lake in it.

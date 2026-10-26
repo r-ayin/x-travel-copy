@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-26（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Honest question for people who live on the road: what pays the rent?

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-06（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Cities where ¥150 a day still works: Zhangye, Dali, Quanzhou, Zhenjiang, Kaifeng, Xining.

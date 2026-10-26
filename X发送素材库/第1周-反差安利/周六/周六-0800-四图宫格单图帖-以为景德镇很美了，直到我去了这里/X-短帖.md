@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-30（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Poyang Lake in a day: Nanchang → Neiqing village, a lake island nobody knows → Chuan Kuijia grassland → Wuxing farm at sunset.

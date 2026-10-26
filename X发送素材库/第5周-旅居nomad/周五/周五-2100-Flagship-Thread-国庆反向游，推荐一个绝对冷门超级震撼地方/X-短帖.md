@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-26（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Zhuge Bagua village, Lanxi, 700 years old and laid out as a diagram. Zhong Pond is the yin-yang eye, 200 Ming-Qing houses, lanterns after 6:30pm.

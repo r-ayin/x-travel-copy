@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-14（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 318 south line, 10 days: Chengdu → Kangding → Xinduqiao → Daocheng → Batang → Basu → Bomi → Nyingchi → Lhasa.

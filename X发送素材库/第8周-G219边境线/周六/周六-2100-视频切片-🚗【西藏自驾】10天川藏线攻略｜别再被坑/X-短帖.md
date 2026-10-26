@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-18（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Ten days, Chengdu to Lhasa, without the 7-day lie: Kangding, Yajiang, Batang, Rumei, Basu, Bomi, Nyingchi, Lhasa.

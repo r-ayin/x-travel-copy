@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-12（周日）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Dali guesthouse, ¥680 a week, ten minutes by bike from the old town, three kilometres from Longkan pier.

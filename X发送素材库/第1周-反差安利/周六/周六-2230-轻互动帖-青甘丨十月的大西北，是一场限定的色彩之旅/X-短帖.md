@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-30（周六）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Everyone sees Qinghai-Gansu in summer. Go in October: the lake stays deep blue, the grass turns gold, Chaka is empty, Chaidamu's salt lakes go mint green.

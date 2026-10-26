@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-30（周二）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 How I plan a trip in four taps: new guide in Maps, drop every pin you want, share to notes, and it builds the route for you.

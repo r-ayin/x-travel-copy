@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-16（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 27,000 km, the outer ring of China: G331 north, G219 west, G228 coast, and everything between.

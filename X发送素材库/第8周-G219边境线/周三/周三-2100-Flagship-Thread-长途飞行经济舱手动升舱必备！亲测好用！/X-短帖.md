@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-15（周三）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 How to survive a 16-hour economy flight: a neck pillow you can bend, a foot hammock, a lumbar roll, compression socks, earplugs, eye mask, and one small bag with everything you need.

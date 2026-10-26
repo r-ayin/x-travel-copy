@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-28（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Jiande, an hour from Hangzhou: two giant golden hands on a cliff, a 1,000m glass slide down the mountain, a waterfall you can walk under.

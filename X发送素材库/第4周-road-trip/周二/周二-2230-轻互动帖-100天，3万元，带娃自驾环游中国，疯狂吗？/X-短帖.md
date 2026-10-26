@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-16（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 I'm 40, exhausted by a job I can't quit and a life I don't recognise. Thinking of taking my kid out of kindergarten for 100 days and driving around China on ¥30,000.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-01（周一）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Spend ¥10,000 on a month of travel at 25 and the memory pays you back for 60 years.

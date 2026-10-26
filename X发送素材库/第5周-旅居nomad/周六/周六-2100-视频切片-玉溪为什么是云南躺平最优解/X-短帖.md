@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-27（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Yuxi over Dali if you want to actually rest: cheaper rent, fewer tourists, better hospitals, and a lake you can walk around without a queue.

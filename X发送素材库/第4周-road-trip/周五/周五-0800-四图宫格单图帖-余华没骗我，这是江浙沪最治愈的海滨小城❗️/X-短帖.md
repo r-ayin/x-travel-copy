@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-19（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Haiyan, an hour from Hangzhou: a sea wall sunrise, Shen Dang's old lanes, a soy sauce yard that smells like childhood, granaries turned into bookshops, and Qi Garden's quiet corners.

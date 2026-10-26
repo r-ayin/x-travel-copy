@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-02（周四）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Bashang in early October: larch turning, birch gold, fog on the grassland at dawn, wind turbines in the distance.

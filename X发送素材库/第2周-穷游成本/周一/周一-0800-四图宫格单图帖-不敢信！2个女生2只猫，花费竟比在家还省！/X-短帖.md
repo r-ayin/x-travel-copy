@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-01（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Two women, two cats, one converted van, six months on the road.

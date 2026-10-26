@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-07（周日）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 7 days Chengdu to Lhasa, 430 km on the first day and 11-hour days later. Two of us, ¥2,400 total in fuel, food and beds.

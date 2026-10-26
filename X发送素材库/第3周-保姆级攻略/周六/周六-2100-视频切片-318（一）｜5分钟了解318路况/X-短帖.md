@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-13（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 318 in five minutes, road conditions only: Zheduo Pass snow, the 72 turns, truck traffic between Batang and Basu, and the long empty stretch after Bomi.

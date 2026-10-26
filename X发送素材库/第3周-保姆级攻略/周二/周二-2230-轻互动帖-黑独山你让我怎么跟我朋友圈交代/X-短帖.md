@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-09（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Black Lone Mountain, the one place on the Qinghai-Gansu loop that broke my feed.

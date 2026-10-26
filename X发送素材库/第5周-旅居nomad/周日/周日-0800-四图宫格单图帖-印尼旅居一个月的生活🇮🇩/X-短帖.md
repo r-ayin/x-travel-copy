@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-28（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 One month in Bali for about ¥10,000: hostel bed, daily yoga or boxing, coffee, ferries to the quieter islands.

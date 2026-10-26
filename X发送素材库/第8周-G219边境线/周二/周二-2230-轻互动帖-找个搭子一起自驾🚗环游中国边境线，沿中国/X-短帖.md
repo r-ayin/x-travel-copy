@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-14（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Looking for a partner for the full border ring: G219, G331, G228, about 30,000 km, 3-4 months.

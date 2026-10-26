@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-25（周一）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Guizhou in 4 days without wrecking your legs: Guiyang → Libo → Anshun → Guiyang.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-29（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Kashgar, slowly: the TV tower from a stairwell, the bag alley and rainbow lane, Gaotai's mud-brick houses, a rooftop where the old city opens up.

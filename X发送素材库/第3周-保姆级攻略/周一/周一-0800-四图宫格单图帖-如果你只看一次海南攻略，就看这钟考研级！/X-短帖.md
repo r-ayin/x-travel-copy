@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-08（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 If you only save one Hainan post, save this: east coast loop, 600 km, 7 days.

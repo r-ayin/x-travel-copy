@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-29（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 One hour from Hangzhou: a free meadow, free parking, dogs welcome, no queue, no filter needed.

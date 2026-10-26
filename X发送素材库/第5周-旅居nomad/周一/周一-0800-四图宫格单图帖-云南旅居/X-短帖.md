@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-22（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Looking for a cheap base in Yunnan for a month. Low altitude, no altitude sickness, walkable town, good food, under ¥1,500 for the month.

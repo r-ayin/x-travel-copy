@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-30（周二）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Two days off, Three Gorges: fly Changzhou to Chongqing Friday night, 6am train to Fengjie, hike the summit, boat to Wushan, night climb the dragon ridge, sleep on the mountain.

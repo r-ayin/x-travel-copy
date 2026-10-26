@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-27（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Nanji Island, 2h by boat off Wenzhou: ¥80 entry, ¥130 ferry, sea meadows on cliffs and water that looks edited.

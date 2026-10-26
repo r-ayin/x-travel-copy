@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-08（周三）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Qinghai-Gansu, what I'd tell a friend: skip the paid lake viewpoint, the free one is better. Skip the salt-lake train, walk. Enter Mogao with an A ticket or don't bother. Danxia at 5pm, not noon.

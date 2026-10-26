@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-21（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 15 small things that make a long trip bearable: inflatable neck pillow, eye mask, earplugs, folding cup, wet wipes, power strip, cable clips, dry bag, slippers, tiny speaker.

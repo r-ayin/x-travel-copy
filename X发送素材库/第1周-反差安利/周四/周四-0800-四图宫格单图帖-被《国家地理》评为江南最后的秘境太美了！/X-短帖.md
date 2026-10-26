@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-28（周四）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Songyang in the rain: Yangjiatang's gold walls, Songzhuang's stream you cross on stepping stones, Chenjiapu hanging in the cloud.

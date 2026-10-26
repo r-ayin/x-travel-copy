@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-04（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 15 countries, 40 days, ¥20,000: night buses, supermarket dinners, free walking tours, and a lot of sleeping in airports.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-30（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Qiyun Mountain, next to Huangshan and half as crowded: red cliffs covered in old inscriptions, a village hanging off the edge, a 5h loop that ends in silence.

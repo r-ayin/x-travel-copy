@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-17（周三）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Planned five days of driving. Tapped out on day three and fled back to Chengdu at night.

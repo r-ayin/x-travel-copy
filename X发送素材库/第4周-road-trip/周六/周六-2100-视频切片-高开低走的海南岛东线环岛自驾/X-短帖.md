@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-20（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Hainan's east coast peaks early. Haikou to Qionghai is empty road, wild beach, cheap seafood. After Wanning it's resorts, crowds and prices.

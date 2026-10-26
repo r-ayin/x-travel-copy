@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-17（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Western Sichuan, 7 days, ¥2,000 each, including Litang and Genie: Kangding, Xinduqiao, Litang, Genie, Xialuo, Zebra village.

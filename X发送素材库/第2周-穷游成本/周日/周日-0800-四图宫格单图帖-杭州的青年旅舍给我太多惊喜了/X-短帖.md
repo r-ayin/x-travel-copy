@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-07（周日）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Hangzhou off-season: a ¥50 single room in a hostel, clean, quiet, five minutes from the metro.

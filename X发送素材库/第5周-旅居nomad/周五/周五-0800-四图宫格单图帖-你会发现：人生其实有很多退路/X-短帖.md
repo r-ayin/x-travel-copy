@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-26（周五）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 You don't have to quit everything to test another life. Take a month somewhere else and keep the job.

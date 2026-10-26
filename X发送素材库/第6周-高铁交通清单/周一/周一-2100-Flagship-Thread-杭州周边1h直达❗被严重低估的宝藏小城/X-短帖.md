@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-29（周一）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Jiande, 1h from Hangzhou by rail: a temple wedged into a cliff, a 1,000-year-old river town, and a cave the 1986 Journey to the West filmed in.

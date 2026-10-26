@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-16（周四）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 The ring, planned properly: 30,000 km, three national roads, 17 provinces, 80-120 days.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-28（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Me, planning to quit and move to Yunnan: 40 saved tabs, three budgets, one spreadsheet.

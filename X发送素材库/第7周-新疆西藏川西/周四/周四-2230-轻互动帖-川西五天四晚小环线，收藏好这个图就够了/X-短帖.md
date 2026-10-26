@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-09（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Western Sichuan, five days, no backtracking: Chengdu → Wenchuan → Danba → Tagong → Xinduqiao → Kangding → Chengdu.

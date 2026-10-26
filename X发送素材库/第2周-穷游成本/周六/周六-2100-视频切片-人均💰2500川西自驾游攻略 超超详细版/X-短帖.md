@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-06（周六）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Western Sichuan, 5 days, ¥2,500 each: Chengdu → Xinduqiao → Moon Lake → Tagong → Siguniang → back.

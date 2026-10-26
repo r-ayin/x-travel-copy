@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-09（周二）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Wenchang, Hainan, 2 days: Mulan Bay → windmill coast → Baohu Cape → Moon Bay → Foguang Temple → Stone Park.

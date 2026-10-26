@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-15（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 256 days, one car, two people, no house and no debt. Left Guangxi in May, came back to Guangxi in January.

@@ -26,7 +26,7 @@ const dayHtml = (d) => '<div class="day"><div class="chip">' + esc(d.d) + '</div
 const html = (c) => '<!doctype html><html><head><meta charset="utf-8"><style>' + css + ':root{--accent:' + c.accent + ';--soft:' + c.accent + '22}</style></head><body><div class="card"><div class="grain"></div>' +
   '<div class="kicker">' + esc(c.kicker) + '</div><h1>' + esc(c.title) + '</h1><div class="sub">' + esc(c.sub) + '</div><div class="rule"></div><div class="days">' + c.days.map(dayHtml).join("") + '</div>' +
   '<div class="foot"><div class="cost">' + esc(c.cost) + '</div><div class="tag">' + esc(c.foot) + '</div></div></div></body></html>';
-const browser = await chromium.launch({ args:["--no-sandbox"] });
+const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || undefined, args:["--no-sandbox"] });
 const page = await browser.newPage({ viewport:{ width:1080, height:1350 }, deviceScaleFactor:2 });
 for (const c of data.cards) {
   const f = path.join(dir, "html", c.slug + ".html");

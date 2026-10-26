@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-12（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Eight days around the northwest in an EV, charging map included. Everyone told me it was impossible.

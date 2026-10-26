@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-12（周五）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Half the comments under Qinghai-Gansu posts are ads. New account, IP in one province, 'just got back, DM me for my driver'.

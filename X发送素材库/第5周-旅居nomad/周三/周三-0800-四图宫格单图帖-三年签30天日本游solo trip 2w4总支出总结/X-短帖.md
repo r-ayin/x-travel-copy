@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-24（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 30 days in Japan, ¥24,874: ¥8,149 beds, ¥7,763 transport, ¥4,418 food, ¥2,798 shopping, ¥1,572 entry fees.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-11（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Five days, Qinghai-Gansu, self-drive: Xining → Qinghai Lake → Chaka → Dachaidan → Dunhuang → Zhangye → Xining.

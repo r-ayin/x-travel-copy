@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-06（周一）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Northwest loop, 8 days: Xining → Qilian grassland → Zhangye Danxia → Jiayuguan → Dunhuang → Black Lone Mountain → Water Yadan → Chaka → Xining.

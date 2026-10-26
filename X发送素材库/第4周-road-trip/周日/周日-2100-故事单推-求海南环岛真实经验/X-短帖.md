@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-21（周日）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Hainan loop, planning paralysis: one day or two in Haikou and Wenchang? Is Tongguling worth it? Do you actually stop often on the coast road?

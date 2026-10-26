@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-01（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Yangzhou in two days: Dongguan street, Ge Garden, Pishi street, Zhu Ziqing's house, the old salt merchant lanes, and He Garden's night performance.

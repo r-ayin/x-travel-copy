@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-14（周日）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Ili loop, 8 days, ¥3,200 each: Yining → Sayram Lake → Kuytun → Urho → Burqin → Baihaba → Kanas → Altay.

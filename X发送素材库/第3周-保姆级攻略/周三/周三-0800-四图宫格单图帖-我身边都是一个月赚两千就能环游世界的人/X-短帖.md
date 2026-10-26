@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-10（周三）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 I know people who travel the world on ¥2,000 a month. They aren't lucky. They're portable: dive instructor, barista, editor, English teacher.

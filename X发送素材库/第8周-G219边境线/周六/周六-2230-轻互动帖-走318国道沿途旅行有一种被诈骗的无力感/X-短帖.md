@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-18（周六）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 318 gave me a strange feeling: everyone promised transformation, and I got a queue at a pass, a diesel smell, and a photo of a sign.

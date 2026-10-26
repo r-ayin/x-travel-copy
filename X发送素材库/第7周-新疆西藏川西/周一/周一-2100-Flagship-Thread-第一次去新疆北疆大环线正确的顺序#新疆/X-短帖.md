@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-06（周一）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Northern Xinjiang, first time, the order that actually works: Urumqi → Karamay → Burqin → Kanas → Hemu → Kuitun → Sayram → Ili → Nalati → Urumqi.

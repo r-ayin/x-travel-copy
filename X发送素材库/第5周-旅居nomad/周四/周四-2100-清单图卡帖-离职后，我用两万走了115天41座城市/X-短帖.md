@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-25（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 115 days, 41 cities, ¥20,000, no taxis and no hotels: hostels, high-speed rail, buses, shared bikes.

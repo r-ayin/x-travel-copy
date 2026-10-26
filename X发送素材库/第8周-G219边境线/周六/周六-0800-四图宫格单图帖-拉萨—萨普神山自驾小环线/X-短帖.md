@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-18（周六）08:00–09:00 北京时间
+
 ## EN (<=280)
 
 Lhasa to Sapu, 6 days: Yamdrok, Karola glacier, Shigatse, Selin Co, Bangoin, Nagqu, Biru, Sapu.

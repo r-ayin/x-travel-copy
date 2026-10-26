@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-11（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 One day in Hangzhou, honestly: Lingyin Temple in the morning, Faxi Temple for lunch, Longjing village, then Jiuqi stream or Yunqi bamboo path.

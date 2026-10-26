@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-09（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Two weeks, northern Xinjiang plus Ili, 3,500 km, four people, one car. Sayram is non-negotiable.

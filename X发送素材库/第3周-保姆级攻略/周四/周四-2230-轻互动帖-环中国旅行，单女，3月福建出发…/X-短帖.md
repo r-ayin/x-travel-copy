@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-11（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 March, Quanzhou, one woman, one small camper, no deadline.

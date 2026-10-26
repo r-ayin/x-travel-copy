@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-05（周日）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 13 cities in a month, ¥4,690: ¥1,292 beds, ¥1,277 transport, ¥2,121 food and tickets.

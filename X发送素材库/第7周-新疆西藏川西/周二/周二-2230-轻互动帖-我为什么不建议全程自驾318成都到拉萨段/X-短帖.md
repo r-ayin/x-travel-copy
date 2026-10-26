@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-07（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Unpopular opinion: don't drive the whole 318 from Chengdu. The first 1,100 km to Basu is mostly trucks, roadworks and six passes you'll see from a queue.

@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-18（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Civil servant by day, solo road-tripper by annual leave. Twenty days a year, and I spend them all on gravel roads.

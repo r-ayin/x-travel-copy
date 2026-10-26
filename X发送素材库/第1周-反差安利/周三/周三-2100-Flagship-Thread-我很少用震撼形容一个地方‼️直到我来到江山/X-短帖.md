@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-10-27（周三）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Quzhou Jiangshan, 2 days: a Ming-Qing old town, a Danxia peak Xu Xiake climbed three times, and a gorge so narrow the sky becomes a line.

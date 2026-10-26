@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-04（周四）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 Someone claims 20 days in Europe for ¥16,000. Possible? Yes, if you sleep in dorms, cook, and take night buses.

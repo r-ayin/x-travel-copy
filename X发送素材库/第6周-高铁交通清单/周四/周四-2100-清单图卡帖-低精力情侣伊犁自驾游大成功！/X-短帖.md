@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-02（周四）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Ili for low-energy people, 8 days: never more than 3h driving, one driver, no alarms.

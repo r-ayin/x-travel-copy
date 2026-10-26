@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-12-10（周五）21:00–22:00 北京时间
+
 ## EN (<=280)
 
 Day one of the Ili loop, skip the expressway: S101 from Urumqi to Kuitun, 360 km, free, empty.

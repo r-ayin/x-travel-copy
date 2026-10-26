@@ -1,5 +1,7 @@
 # X 短帖
 
+> 发送：2026-11-23（周二）22:30–23:00 北京时间
+
 ## EN (<=280)
 
 One million yuan, Yunnan, no job. Rent ¥1,000, food ¥1,000, the rest is buffer. That's roughly 40 years if nothing goes wrong.
