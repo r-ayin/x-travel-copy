@@ -1,4 +1,4 @@
-# X Travel Copy（私人仓库）
+# X Travel Copy
 
 把 8 周 × 21 条中文旅游文案改写成的 **X（Twitter）短动态**，外加把详细路程规划用 HTML/CSS 渲染成的**路线卡片图**。
 
